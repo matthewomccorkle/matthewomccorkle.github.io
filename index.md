@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "About"
+title:  ""
 ---
  <div class="prose mb-4 py-4">
  
