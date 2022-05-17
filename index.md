@@ -2,6 +2,8 @@
 layout: page
 title:  "About"
 ---
-
-<center>
- Hi <Insert emoji>, I'm Matthew, a Security Analyst in Florida. I love information security, learning about threats and performing mitigation efforts to reduce attack surfaces and vulnerabilities </center>
+ <div class="prose mb-4 py-4">
+ 
+<p>Hi <Insert emoji>, I'm Matthew, a Security Analyst in Florida. I love information security, learning about threats and performing mitigation efforts to reduce attack surfaces and vulnerabilities. </p>
+ 
+ </div>
