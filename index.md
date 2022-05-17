@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Blog"
+title:  ""
 ---
 
 I am a Cybersecurity Professional. 
