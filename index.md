@@ -1,9 +1,10 @@
 ---
-layout: page
-title:  ""
+layout: default
+title: ""
 ---
 
- 
-Hi <Insert emoji>, I'm Matthew, a Security Analyst in Florida. 
-I love information security, learning about threats and performing mitigation efforts to reduce attack surfaces and vulnerabilities.
- 
+{% if site.show_excerpts %}
+  {% include home.html %}
+{% else %}
+  {% include archive.html title="Posts" %}
+{% endif %}
