@@ -1,6 +1,6 @@
 # In-Depth Data for T-Pot Project:
 
-### Adbhoney
+### Adbhoney Honeypot
 
 ```mermaid
 flowchart TD
@@ -19,6 +19,8 @@ flowchart TD
     I[busybox malicious script] --> K[Most used commands <br> cd<br>curl<br>wget<br>sh<br>]
 id1[Catches Malware from Port: 5555 ]
 ```
+
+### Cowrie Honeypot
 
 ```mermaid
 flowchart TD
