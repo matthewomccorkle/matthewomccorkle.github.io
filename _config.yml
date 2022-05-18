@@ -17,7 +17,8 @@ minimal: false             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {title: "About", file: "index.md"}
-  - {title: "CV", url: "https://github.com/matthewomccorkle/matthewomccorkle.github.io/blob/cfead8f4f2511eee210da792abc4a1b6afc83545/matthew.pdf"}
+  #- {title: "CV", url: "https://github.com/matthewomccorkle/matthewomccorkle.github.io/blob/cfead8f4f2511eee210da792abc4a1b6afc83545/matthew.pdf"}
+  - {% link assets/matthew.pdf %}
   - {title: "Blog", file: "blog.md"}
   
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
