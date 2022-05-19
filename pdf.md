@@ -9,6 +9,6 @@ title: ""
   {% include archive.html title="Posts" %}
 {% endif %}
 
-<embed src="/matthew.pdf" type="application/pdf">
+<embed src="matthew.pdf" type="application/pdf">
 
 
