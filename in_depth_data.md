@@ -17,7 +17,7 @@ flowchart TD
     G[11% South Korea] -->J[No malicious payloads/commands]
     H[8% Hong Kong] -->J[No malicious payloads/commands]
     I[busybox malicious script] --> K[Most used commands <br> cd<br>curl<br>wget<br>sh<br>]
-id1[Catches Malware from Port: 5555 ]
+id1([Catches Malware from Port: 5555 ])
 ```
 
 ### Cowrie Honeypot
@@ -36,4 +36,6 @@ A[48h Cowrie] -->B[16363 Attacks]
     D[59% Vietnam] -->K[12% of Passwords: password]
 E[20% United States] -->L[99.9% of Usernames: root]
 E[20% United States] -->M[96% of Connections from: 206.189.206.35]
+C[359 Unique IP's] -->N[test]
+id1([A Vulnerable SSH/Telnet Service])
 ```
