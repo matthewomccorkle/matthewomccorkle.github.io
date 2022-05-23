@@ -4,7 +4,7 @@
 
 ```mermaid
 flowchart TD
-    A[48h Adbhoney] -->B[707 Attacks]
+    A[72h Adbhoney] -->B[707 Attacks]
     B[707 Attacks] -->C[236 Unique IP's]
     C[236 Unique IP's] -->D[27% United States]
     C[236 Unique IP's] -->E[13% Armenia]
@@ -24,7 +24,7 @@ id1([Catches Malware from Port: 5555 ])
 
 ```mermaid
 flowchart TD
-A[48h Cowrie] -->B[16363 Attacks]
+A[72h Cowrie] -->B[16363 Attacks]
     B[16363 Attacks] -->C[359 Unique IP's]
     C[359 Unique IP's] -->D[59% Vietnam]
     C[359 Unique IP's] -->E[20% United States]
