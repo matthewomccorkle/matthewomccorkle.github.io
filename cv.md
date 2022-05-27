@@ -17,7 +17,7 @@ Contact Me:
 
 
 
-## TECHNICAL SKILLS
+### TECHNICAL SKILLS
 ---
 Knowledgeable: AWS, Compliance, Cryptography, Enumeration, Forensics, HTTP Requests, IAM, IDS/IPS, Incident Response, Linode, Linux, Lockheed Cyber Kill Chain, Markdown, MITRE ATT&CK, OSI Model, OSINT, OWASP Top 10, Penetration Testing, Reconnaissance, Risk Management, Threat Intelligence, Vulnerability Analysis, Windows Operating Systems. 
 Proficient: Burpsuite, Elasticsearch, Firewalls, GitHub, Kibana, Metasploit, Nessus, NMAP, Snort, Splunk, Wireshark.
@@ -30,8 +30,8 @@ Proficient: Burpsuite, Elasticsearch, Firewalls, GitHub, Kibana, Metasploit, Nes
         Google IT Automation with Python Professional Certificate (August 2022)
 
 
-TECHNICAL PROJECTS
-
+### TECHNICAL PROJECTS
+---
 [NAHBP](https://matthewomccorkle.github.io/) – Not Another Honeypot Blog Post - May 2022<br>
 - A 48-hour honeypot implemented using AWS infrastructure in the Middle East (Bahrain) region.
 - Analyzed current and common attacks on vulnerable services.
@@ -39,14 +39,15 @@ TECHNICAL PROJECTS
 - AWS, Elasticsearch, Logstash, Kibana, Linode, Github, Markdown, Liquid.
 
 
-ADDITIONAL TRAINING<br>
-Hack The Box: Top 550 Globally; Core Competencies: Local File Inclusion, Common Vulnerabilities and Exposures, Content Management System<br>
+### ADDITIONAL TRAINING<br>
+---
+Hack The Box: <br>Top 550 Globally; Core Competencies: Local File Inclusion, Common Vulnerabilities and Exposures, Content Management System<br>
 TryHackMe: Top 7% Globally; Core Competencies:  Fundamentals, Network Exploitation, Linux, Windows Exploitation <br>
 Fullstack Hackathon (CTF) 2022: 2nd place finish out of 9 teams <br>
 
 
-EXPERIENCE<br>
-
+### EXPERIENCE
+---
 President of LLC 2016 - 2020
 •	Founded and directed a liquid dispense service company providing draft beer, wine, coffee, and more by delivering on-tap solutions for 47 clients internationally.
 •	Pioneered the company’s strategic vision and mission, building all necessary operational and financial infrastructure to drive sustainable growth and development resulting in quarterly sales in excess of $150K.
@@ -58,7 +59,8 @@ U.S. Army	2009 – 2018
 •	Served as a mid-level career leader; supervised 54 personnel in a high-hazard, high-energy team environment.
 •	Received 13 awards for service and excellence.
 
-EDUCATION
+### EDUCATION
+---
 Fullstack Academy Cybersecurity Analytics Bootcamp	 2022
 Full-time, immersive cyber security program designed to train in advanced red team/blue team skills and use of security tools.
 University of Arizona	2018
