@@ -12,21 +12,23 @@ Contact Me:
 
 [LinkedIn](https://www.linkedin.com/in/matthewomccorkle)
 
-`whoami`
-### Motivated Security Operations Center Analyst & U.S. Army Veteran with a career-long record of problem-solving, communication, and team leadership success. Eager to positively contribute to team and organizational goals by implementing and monitoring security systems, mitigating vulnerabilities, analyzing threats, optimizing and improving the organization’s overall security posture. 
+## `whoami`:<br>
+*Motivated Security Operations Center Analyst & U.S. Army Veteran with a career-long record of problem-solving, communication, and team leadership success. Eager to positively contribute to team and organizational goals by implementing and monitoring security systems, mitigating vulnerabilities, analyzing threats, optimizing and improving the organization’s overall security posture.*
 
 </p>
-TECHNICAL SKILLS
 
+## TECHNICAL SKILLS
+---
 Knowledgeable: AWS, Compliance, Cryptography, Enumeration, Forensics, HTTP Requests, IAM, IDS/IPS, Incident Response, Linode, Linux, Lockheed Cyber Kill Chain, Markdown, MITRE ATT&CK, OSI Model, OSINT, OWASP Top 10, Penetration Testing, Reconnaissance, Risk Management, Threat Intelligence, Vulnerability Analysis, Windows Operating Systems. 
 Proficient: Burpsuite, Elasticsearch, Firewalls, GitHub, Kibana, Metasploit, Nessus, NMAP, Snort, Splunk, Wireshark.
 
 </p>
-Certifications:<br>
 
-#### CompTIA Security+ April 2022
-*Splunk Core Certified user (In progress - Expected: July 2022)* <br>
-*Google IT Automation with Python Professional Certificate (In progress – Expected August 2022)* <br>
+    **Certifications:**
+
+        #### CompTIA Security+ April 2022
+        *Splunk Core Certified user (Expected: July 2022)* <br>
+        *Google IT Automation with Python Professional Certificate (August 2022)*
 
 </p>
 TECHNICAL PROJECTS
