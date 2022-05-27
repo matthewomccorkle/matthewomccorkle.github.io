@@ -14,7 +14,7 @@ Contact Me:
 
 ## `whoami`:<br>
 *Motivated Security Operations Center Analyst & U.S. Army Veteran with a career-long record of problem-solving, communication, and team leadership success. Eager to positively contribute to team and organizational goals by implementing and monitoring security systems, mitigating vulnerabilities, analyzing threats, optimizing and improving the organization’s overall security posture.*
-
+<br>
 
 
 ### TECHNICAL SKILLS
@@ -30,6 +30,7 @@ Contact Me:
         Google IT Automation with Python Professional Certificate (August 2022)
 
 
+
 ### TECHNICAL PROJECTS
 ---
 [NAHBP](https://matthewomccorkle.github.io/) – Not Another Honeypot Blog Post - May 2022<br>
@@ -39,11 +40,13 @@ Contact Me:
 - AWS, Elasticsearch, Logstash, Kibana, Linode, Github, Markdown, Liquid.
 
 
+
 ### ADDITIONAL TRAINING<br>
 ---
 Hack The Box: <br>Top 550 Globally; Local File Inclusion, Common Vulnerabilities and Exposures, Content Management System<br>
 TryHackMe: Top 7% Globally; Fundamentals, Network Exploitation, Linux, Windows Exploitation <br>
 Fullstack Hackathon (CTF) 2022: 2nd place finish out of 9 teams <br>
+
 
 
 ### EXPERIENCE
@@ -58,6 +61,8 @@ U.S. Army	2009 – 2018
 - Acted as the Sexual Harassment Assault Response and Prevention Coordinator, leading team training around relevant strategies and advocating for victim rights to 400+ soldiers in 3 different countries. <br>
 - Served as a mid-level career leader; supervised 54 personnel in a high-hazard, high-energy team environment. <br>
 - Received 13 awards for service and excellence.
+
+
 
 ### EDUCATION
 ---
