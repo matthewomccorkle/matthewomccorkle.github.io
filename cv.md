@@ -17,7 +17,7 @@ Contact Me:
 <br>
 
 
-### TECHNICAL SKILLS
+### cd Technical_Skills
 ---
 **Knowledgeable:** AWS, Compliance, Cryptography, Enumeration, Forensics, HTTP Requests, IAM, IDS/IPS, Incident Response, Linode, Linux, Lockheed Cyber Kill Chain, Markdown, MITRE ATT&CK, OSI Model, OSINT, OWASP Top 10, Penetration Testing, Reconnaissance, Risk Management, Threat Intelligence, Vulnerability Analysis, Windows Operating Systems.<br> 
 **Proficient:** Burpsuite, Elasticsearch, Firewalls, GitHub, Kibana, Metasploit, Nessus, NMAP, Snort, Splunk, Wireshark.
