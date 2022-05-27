@@ -41,7 +41,7 @@ Contact Me:
 
 
 
-## `cd Additional_Training`
+## `cd Additional_Training`:
 ---
 Hack The Box: <br>Top 550 Globally; Local File Inclusion, Common Vulnerabilities and Exposures, Content Management System<br>
 TryHackMe: Top 7% Globally; Fundamentals, Network Exploitation, Linux, Windows Exploitation <br>
@@ -49,7 +49,7 @@ Fullstack Hackathon (CTF) 2022: 2nd place finish out of 9 teams <br>
 
 
 
-## `cd Experience`
+## `cd Experience`:
 ---
 President of LLC 2016 - 2020
 - Founded and directed a liquid dispense service company providing draft beer, wine, coffee, and more by delivering on-tap solutions for 47 clients internationally.<br>
@@ -64,7 +64,7 @@ U.S. Army	2009 – 2018
 
 
 
-## `cd Education`
+## `cd Education`:
 ---
 **Fullstack Academy Cybersecurity Analytics Bootcamp**	 2022
 
