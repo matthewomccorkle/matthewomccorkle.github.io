@@ -44,7 +44,7 @@ Fullstack Hackathon (CTF) 2022: 2nd place finish out of 9 teams <br>
 </p>
 EXPERIENCE<br>
 
-President2016 - 2020
+President of LLC 2016 - 2020
 •	Founded and directed a liquid dispense service company providing draft beer, wine, coffee, and more by delivering on-tap solutions for 47 clients internationally.
 •	Pioneered the company’s strategic vision and mission, building all necessary operational and financial infrastructure to drive sustainable growth and development resulting in quarterly sales in excess of $150K.
 
