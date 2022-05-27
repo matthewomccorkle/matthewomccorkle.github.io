@@ -17,7 +17,7 @@ Contact Me:
 <br>
 
 
-## `cd Technical_Skills`:\s\s  
+## `cd Technical_Skills`:
 ---
 **Knowledgeable:** AWS, Compliance, Cryptography, Enumeration, Forensics, HTTP Requests, IAM, IDS/IPS, Incident Response, Linode, Linux, Lockheed Cyber Kill Chain, Markdown, MITRE ATT&CK, OSI Model, OSINT, OWASP Top 10, Penetration Testing, Reconnaissance, Risk Management, Threat Intelligence, Vulnerability Analysis, Windows Operating Systems.<br> 
 **Proficient:** Burpsuite, Elasticsearch, Firewalls, GitHub, Kibana, Metasploit, Nessus, NMAP, Snort, Splunk, Wireshark.
@@ -31,7 +31,7 @@ Contact Me:
 
 
 
-## `cd Technical Projects`:  
+## `cd Technical_Projects`:  
 ---
 [NAHBP](https://matthewomccorkle.github.io/) – Not Another Honeypot Blog Post - May 2022<br>
 - A 48-hour honeypot implemented using AWS infrastructure in the Middle East (Bahrain) region.
@@ -41,7 +41,7 @@ Contact Me:
 
 
 
-### ADDITIONAL TRAINING<br>
+## `cd Additional_Training`
 ---
 Hack The Box: <br>Top 550 Globally; Local File Inclusion, Common Vulnerabilities and Exposures, Content Management System<br>
 TryHackMe: Top 7% Globally; Fundamentals, Network Exploitation, Linux, Windows Exploitation <br>
@@ -49,7 +49,7 @@ Fullstack Hackathon (CTF) 2022: 2nd place finish out of 9 teams <br>
 
 
 
-### EXPERIENCE
+## `cd Experience`
 ---
 President of LLC 2016 - 2020
 - Founded and directed a liquid dispense service company providing draft beer, wine, coffee, and more by delivering on-tap solutions for 47 clients internationally.<br>
@@ -64,7 +64,7 @@ U.S. Army	2009 – 2018
 
 
 
-### EDUCATION
+## `cd Education`
 ---
 **Fullstack Academy Cybersecurity Analytics Bootcamp**	 2022
 
