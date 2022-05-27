@@ -17,8 +17,8 @@ Contact Me:
 <br>
 
 
-## `cd Technical_Skills`:
-\---
+## `cd Technical_Skills`:\s\s  
+---
 **Knowledgeable:** AWS, Compliance, Cryptography, Enumeration, Forensics, HTTP Requests, IAM, IDS/IPS, Incident Response, Linode, Linux, Lockheed Cyber Kill Chain, Markdown, MITRE ATT&CK, OSI Model, OSINT, OWASP Top 10, Penetration Testing, Reconnaissance, Risk Management, Threat Intelligence, Vulnerability Analysis, Windows Operating Systems.<br> 
 **Proficient:** Burpsuite, Elasticsearch, Firewalls, GitHub, Kibana, Metasploit, Nessus, NMAP, Snort, Splunk, Wireshark.
 
@@ -31,7 +31,7 @@ Contact Me:
 
 
 
-## `cd Technical Projects`:
+## `cd Technical Projects`:  
 ---
 [NAHBP](https://matthewomccorkle.github.io/) – Not Another Honeypot Blog Post - May 2022<br>
 - A 48-hour honeypot implemented using AWS infrastructure in the Middle East (Bahrain) region.
