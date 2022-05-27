@@ -48,7 +48,7 @@ Fullstack Hackathon (CTF) 2022: 2nd place finish out of 9 teams <br>
 
 ### EXPERIENCE
 ---
-President of LLC <div align="right">2016 - 2020</div>
+President of LLC 2016 - 2020
 - Founded and directed a liquid dispense service company providing draft beer, wine, coffee, and more by delivering on-tap solutions for 47 clients internationally.<br>
 - Pioneered the company’s strategic vision and mission, building all necessary operational and financial infrastructure to drive sustainable growth and development resulting in quarterly sales in excess of $150K.
 
@@ -62,7 +62,12 @@ U.S. Army	2009 – 2018
 ### EDUCATION
 ---
 **Fullstack Academy Cybersecurity Analytics Bootcamp**	 2022
+
 Full-time, immersive cyber security program designed to train in advanced red team/blue team skills and use of security tools.<br>
+
 **University of Arizona**	2018
-Bachelor of Arts in Entrepreneurship 	 Summa Cum Laude
+
+Bachelor of Arts in Entrepreneurship
+
+Summa Cum Laude
 
