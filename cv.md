@@ -15,22 +15,21 @@ Contact Me:
 ## `whoami`:<br>
 *Motivated Security Operations Center Analyst & U.S. Army Veteran with a career-long record of problem-solving, communication, and team leadership success. Eager to positively contribute to team and organizational goals by implementing and monitoring security systems, mitigating vulnerabilities, analyzing threats, optimizing and improving the organization’s overall security posture.*
 
-</p>
+
 
 ## TECHNICAL SKILLS
 ---
 Knowledgeable: AWS, Compliance, Cryptography, Enumeration, Forensics, HTTP Requests, IAM, IDS/IPS, Incident Response, Linode, Linux, Lockheed Cyber Kill Chain, Markdown, MITRE ATT&CK, OSI Model, OSINT, OWASP Top 10, Penetration Testing, Reconnaissance, Risk Management, Threat Intelligence, Vulnerability Analysis, Windows Operating Systems. 
 Proficient: Burpsuite, Elasticsearch, Firewalls, GitHub, Kibana, Metasploit, Nessus, NMAP, Snort, Splunk, Wireshark.
 
-</p>
 
-    **Certifications:**
+    Certifications:
 
-        #### CompTIA Security+ April 2022
-        *Splunk Core Certified user (Expected: July 2022)* <br>
-        *Google IT Automation with Python Professional Certificate (August 2022)*
+        CompTIA Security+ April 2022
+        Splunk Core Certified user (Expected: July 2022)
+        Google IT Automation with Python Professional Certificate (August 2022)
 
-</p>
+
 TECHNICAL PROJECTS
 
 [NAHBP](https://matthewomccorkle.github.io/) – Not Another Honeypot Blog Post - May 2022<br>
@@ -39,13 +38,13 @@ TECHNICAL PROJECTS
 - 117,908 total attacks, recorded a 10.0 CVSS exploit, recorded U.S.-based attacks on ICS/SCADA fuel system equipment.
 - AWS, Elasticsearch, Logstash, Kibana, Linode, Github, Markdown, Liquid.
 
-</p>
+
 ADDITIONAL TRAINING<br>
 Hack The Box: Top 550 Globally; Core Competencies: Local File Inclusion, Common Vulnerabilities and Exposures, Content Management System<br>
 TryHackMe: Top 7% Globally; Core Competencies:  Fundamentals, Network Exploitation, Linux, Windows Exploitation <br>
 Fullstack Hackathon (CTF) 2022: 2nd place finish out of 9 teams <br>
 
-</p>
+
 EXPERIENCE<br>
 
 President of LLC 2016 - 2020
