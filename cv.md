@@ -10,6 +10,7 @@ Contact Me:
 
 [LinkedIn](https://www.linkedin.com/in/matthewomccorkle)
 
+`whoami`
 ### Motivated Security Operations Center Analyst & U.S. Army Veteran with a career-long record of problem-solving, communication, and team leadership success. Eager to positively contribute to team and organizational goals by implementing and monitoring security systems, mitigating vulnerabilities, analyzing threats, optimizing and improving the organization’s overall security posture. 
 
 </p>
