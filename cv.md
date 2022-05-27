@@ -19,8 +19,8 @@ Contact Me:
 
 ### TECHNICAL SKILLS
 ---
-Knowledgeable: AWS, Compliance, Cryptography, Enumeration, Forensics, HTTP Requests, IAM, IDS/IPS, Incident Response, Linode, Linux, Lockheed Cyber Kill Chain, Markdown, MITRE ATT&CK, OSI Model, OSINT, OWASP Top 10, Penetration Testing, Reconnaissance, Risk Management, Threat Intelligence, Vulnerability Analysis, Windows Operating Systems. 
-Proficient: Burpsuite, Elasticsearch, Firewalls, GitHub, Kibana, Metasploit, Nessus, NMAP, Snort, Splunk, Wireshark.
+**Knowledgeable:** AWS, Compliance, Cryptography, Enumeration, Forensics, HTTP Requests, IAM, IDS/IPS, Incident Response, Linode, Linux, Lockheed Cyber Kill Chain, Markdown, MITRE ATT&CK, OSI Model, OSINT, OWASP Top 10, Penetration Testing, Reconnaissance, Risk Management, Threat Intelligence, Vulnerability Analysis, Windows Operating Systems.<br> 
+**Proficient:** Burpsuite, Elasticsearch, Firewalls, GitHub, Kibana, Metasploit, Nessus, NMAP, Snort, Splunk, Wireshark.
 
 
     Certifications:
@@ -41,14 +41,14 @@ Proficient: Burpsuite, Elasticsearch, Firewalls, GitHub, Kibana, Metasploit, Nes
 
 ### ADDITIONAL TRAINING<br>
 ---
-Hack The Box: <br>Top 550 Globally; Core Competencies: Local File Inclusion, Common Vulnerabilities and Exposures, Content Management System<br>
-TryHackMe: Top 7% Globally; Core Competencies:  Fundamentals, Network Exploitation, Linux, Windows Exploitation <br>
+Hack The Box: <br>Top 550 Globally; Local File Inclusion, Common Vulnerabilities and Exposures, Content Management System<br>
+TryHackMe: Top 7% Globally; Fundamentals, Network Exploitation, Linux, Windows Exploitation <br>
 Fullstack Hackathon (CTF) 2022: 2nd place finish out of 9 teams <br>
 
 
 ### EXPERIENCE
 ---
-President of LLC 2016 - 2020
+President of LLC <div align="right">2016 - 2020</div>
 •	Founded and directed a liquid dispense service company providing draft beer, wine, coffee, and more by delivering on-tap solutions for 47 clients internationally.
 •	Pioneered the company’s strategic vision and mission, building all necessary operational and financial infrastructure to drive sustainable growth and development resulting in quarterly sales in excess of $150K.
 
