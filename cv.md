@@ -1,0 +1,63 @@
+---
+layout: default
+title: "CV"
+---
+
+# Matthew McCorkle	
+## Security Operations Center Analyst 
+
+#### Reach out to me:
+[Email](mailto:matthew.o.mccorkle@gmail.com)
+
+[LinkedIn](https://www.linkedin.com/in/matthewomccorkle)
+
+### Motivated Security Operations Center Analyst & U.S. Army Veteran with a career-long record of problem-solving, communication, and team leadership success. Eager to positively contribute to team and organizational goals by implementing and monitoring security systems, mitigating vulnerabilities, analyzing threats, optimizing and improving the organization’s overall security posture. 
+
+</p>
+TECHNICAL SKILLS
+
+Knowledgeable: AWS, Compliance, Cryptography, Enumeration, Forensics, HTTP Requests, IAM, IDS/IPS, Incident Response, Linode, Linux, Lockheed Cyber Kill Chain, Markdown, MITRE ATT&CK, OSI Model, OSINT, OWASP Top 10, Penetration Testing, Reconnaissance, Risk Management, Threat Intelligence, Vulnerability Analysis, Windows Operating Systems. 
+Proficient: Burpsuite, Elasticsearch, Firewalls, GitHub, Kibana, Metasploit, Nessus, NMAP, Snort, Splunk, Wireshark.
+
+</p>
+Certifications:<br>
+
+#### CompTIA Security+ April 2022
+*Splunk Core Certified user (In progress - Expected: July 2022)* <br>
+*Google IT Automation with Python Professional Certificate (In progress – Expected August 2022)* <br>
+
+</p>
+TECHNICAL PROJECTS
+
+[NAHBP](https://matthewomccorkle.github.io/) – Not Another Honeypot Blog Post - May 2022<br>
+- A 48-hour honeypot implemented using AWS infrastructure in the Middle East (Bahrain) region.
+- Analyzed current and common attacks on vulnerable services.
+- 117,908 total attacks, recorded a 10.0 CVSS exploit, recorded U.S.-based attacks on ICS/SCADA fuel system equipment.
+- AWS, Elasticsearch, Logstash, Kibana, Linode, Github, Markdown, Liquid.
+
+</p>
+ADDITIONAL TRAINING<br>
+Hack The Box: Top 550 Globally; Core Competencies: Local File Inclusion, Common Vulnerabilities and Exposures, Content Management System<br>
+TryHackMe: Top 7% Globally; Core Competencies:  Fundamentals, Network Exploitation, Linux, Windows Exploitation <br>
+Fullstack Hackathon (CTF) 2022: 2nd place finish out of 9 teams <br>
+
+</p>
+EXPERIENCE<br>
+
+President<div style="text-align: right">2016 - 2020</div>
+•	Founded and directed a liquid dispense service company providing draft beer, wine, coffee, and more by delivering on-tap solutions for 47 clients internationally.
+•	Pioneered the company’s strategic vision and mission, building all necessary operational and financial infrastructure to drive sustainable growth and development resulting in quarterly sales in excess of $150K.
+
+U.S. Army	2009 – 2018
+•	Championed program management as the Schools Program Coordinator, instituting the standards for scheduling, reporting, and planning career education opportunities for a Battalion of 400+ personnel. 
+•	Orchestrated the organizational ammunition and land program, liaising with all relevant entities on Fort Bliss to procure land, shelter, and ammunition used to train 400+ personnel. 
+•	Acted as the Sexual Harassment Assault Response and Prevention Coordinator, leading team training around relevant strategies and advocating for victim rights to 400+ soldiers in 3 different countries. 
+•	Served as a mid-level career leader; supervised 54 personnel in a high-hazard, high-energy team environment.
+•	Received 13 awards for service and excellence.
+
+EDUCATION
+Fullstack Academy Cybersecurity Analytics Bootcamp	 2022
+Full-time, immersive cyber security program designed to train in advanced red team/blue team skills and use of security tools.
+University of Arizona	2018
+Bachelor of Arts in Entrepreneurship 	 Summa Cum Laude
+
