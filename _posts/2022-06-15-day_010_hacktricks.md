@@ -59,15 +59,15 @@ He was a presenter at DEFCON in 2021 where he discussed PEASS and demonstrated t
 
 Hacktricks is a resource that can help a pentester develop their methodology during penetration testing. Below are some of the key topics Carlos has compiled and written information for. 
 
-**Pentesting Methodology** - Carlos gives an excellent example of Pentesting Methodololgy where he breaks down the process into 12 main steps.
+**Pentesting Methodology** - Carlos gives an excellent example of Pentesting Methodology where he breaks down the process into 12 main steps.
 
-**Hardening** - Carlos discusses hardeing steps for Linux, MacOS and Windows. These are all excellent resources for checking up on your system security and implementing safer procedures to harden your systems. 
+**Hardening** - Carlos discusses hardening steps for Linux, MacOS, and Windows. These are all excellent resources for checking up on your system security and implementing safer procedures to harden your systems. 
 
-**Pentesting** - Carlos discusses in great detail a variety of pentesting processes on netowrks, websites, mobile devices, the cloud and even hardware.
+**Pentesting** - Carlos discusses in great detail a variety of pentesting processes on networks, websites, mobile devices, the cloud, and even hardware.
 
-**Reversing & Exploiting** - Carlos discusses reversing procedures in depth as well as various exploit tools used on all operating systems. 
+**Reversing & Exploiting** - Carlos discusses reversing procedures in-depth as well as various exploit tools used on all operating systems. 
 
-**Cryptography & Stegonography** - Carlous discusses Cryptography and Stegonography in depth and tools / information available to understanding each of these subjects. 
+**Cryptography & Steganography** - Carlos discusses cryptography and steganography in-depth and the tools/information available to understand each of these subjects. 
 
 ---
 
@@ -75,7 +75,7 @@ Hacktricks is a resource that can help a pentester develop their methodology dur
 
 HackTricks is an excellent resource that can be used during pentesting to reference the types of exploits and vulnerabilities that may exist for a system or network you are trying to gain access to. 
 
-Training - this is an excellent tool for training and understanding how, why and when to use certain pentesting techniques. 
+Training - this is an excellent tool for training and understanding how, why, and when to use certain pentesting techniques. 
 
 Capture the Flags - Use this during your CTF as a reference to help you achieve a foothold on the target. 
 
@@ -105,7 +105,7 @@ Or purchasing swag from him here:
 
 https://peass.creator-spring.com/
 
-Or purchasing NFT's here:
+Or purchasing NFTs here:
 
 https://opensea.io/collection/the-peass-family
 
