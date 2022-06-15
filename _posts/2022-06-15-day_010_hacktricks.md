@@ -86,7 +86,8 @@ Capture the Flags - Use this during your CTF as a reference to help you achieve 
 Go to the HackTricks website [here](https://book.hacktricks.xyz/welcome/readme).
 
 Which is also this URL:
-https://book.hacktricks.xyz/welcome/readme
+
+[https://book.hacktricks.xyz/welcome/readme](https://book.hacktricks.xyz/welcome/readme)
 
 ---
 
@@ -98,16 +99,16 @@ Carlos Polop developed the resource on GitHub and offers it as an OpenSource too
 
 If you want to support Carlos Polop you can do so by subscribing to him here:
 
-https://github.com/sponsors/carlospolop
+[https://github.com/sponsors/carlospolop](https://github.com/sponsors/carlospolop)
 
 
 Or purchasing swag from him here:
 
-https://peass.creator-spring.com/
+[https://peass.creator-spring.com/](https://peass.creator-spring.com/)
 
 Or purchasing NFTs here:
 
-https://opensea.io/collection/the-peass-family
+[https://opensea.io/collection/the-peass-family](https://opensea.io/collection/the-peass-family)
 
 Thanks for reading!<br>
 
