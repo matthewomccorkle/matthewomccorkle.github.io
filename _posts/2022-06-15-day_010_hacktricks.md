@@ -33,10 +33,10 @@ Welcome to the **tenth** blog post of 100 tools in 100 days.<br>
 <span style="color:red">***Disclaimer***</span>: HackTricks is not a Kali or Parrot default tool. 
 
 HackTricks is a resource developed and combined by Carlos Polop view his:<br>
-[LinkedIn](https://www.linkedin.com/in/carlos-polop-martin)
-[GitHub](https://github.com/carlospolop)
-[Twitter](https://twitter.com/carlospolopm)
-[Discord](https://discord.gg/hRep4RUj7f)
+[LinkedIn](https://www.linkedin.com/in/carlos-polop-martin)<br>
+[GitHub](https://github.com/carlospolop)<br>
+[Twitter](https://twitter.com/carlospolopm)<br>
+[Discord](https://discord.gg/hRep4RUj7f)<br>
 
 Not all information within HackTricks is owned by Carlos and he has given credit where it is due throughout the book. 
 
