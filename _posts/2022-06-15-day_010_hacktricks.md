@@ -110,6 +110,10 @@ Or purchasing **NFTs** here:
 
 [https://opensea.io/collection/the-peass-family](https://opensea.io/collection/the-peass-family)
 
+Or purchasing the **PDF** of HackTricks here:
+
+[https://www.buymeacoffee.com/carlospolop/shop](https://www.buymeacoffee.com/carlospolop/shop)
+
 Thanks for reading!<br>
 
 If you have suggestions for what tool to cover next, [contact](mailto:matthew.o.mccorkle@gmail.com) me!
