@@ -97,16 +97,16 @@ HackTricks is one of the best resources for referencing when conducting penetrat
 
 Carlos Polop developed the resource on GitHub and offers it as an OpenSource tool to the community. 
 
-If you want to support Carlos Polop you can do so by subscribing to him here:
+If you want to support Carlos Polop you can do so by **subscribing** to him here:
 
 [https://github.com/sponsors/carlospolop](https://github.com/sponsors/carlospolop)
 
 
-Or purchasing swag from him here:
+Or purchasing **swag** from him here:
 
 [https://peass.creator-spring.com/](https://peass.creator-spring.com/)
 
-Or purchasing NFTs here:
+Or purchasing **NFTs** here:
 
 [https://opensea.io/collection/the-peass-family](https://opensea.io/collection/the-peass-family)
 
