@@ -88,16 +88,49 @@ Overall my scan took less than 5 seconds to complete.
 
 Below are the results:
 
-![]()
+![](https://raw.githubusercontent.com/matthewomccorkle/matthewomccorkle.github.io/master/_posts/assets/100%20tools/netdiscover/netdiscover2.PNG)
 
+<br>
 
+    Step 2: 
+    You can tell Netdiscover to use a specific network device using the 
+    following command:
 
+    netdiscover -i lan0 -r 192.168.1.0/24
+
+<br>
+
+    Step 2b:
+    If you need to figure out what network devices you have and their designated names run the following command:
+
+    ip a
+
+    This will output each network device and the name for example: etho0, eth1, wlan0, etc.
+
+<br>
+
+    Step 3:
+    You can tell Netdiscover to operate in passive mode where no requests are made to hosts.
+
+    This is excellent if you want to discover hosts that are communicating on the network.
+
+    However, this is a sniffing method and wont find hosts unless they are passing traffic along the network. 
+
+    Try the command below for passive mode:
+
+    netdiscover -r 192.168.1.0/24 -p
 
 ---
 
 ### 6. **Summary**
 
+In this post I covered semi-briefly what Netdiscover does and how it functions.
 
+I discussed using netdiscover to actively find hosts on a network. 
+
+Additionally, I covered using netdiscover in a passive mode where it only discovers hosts as traffic passes on the network.
+
+Finally, I discussed how to control which network device to use when scanning if oyu have multiple network devices. 
 
 Thanks for reading!<br>
 
