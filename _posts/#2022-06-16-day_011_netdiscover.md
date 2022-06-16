@@ -49,7 +49,7 @@ Additionally, to detect other devices I ran a Metasploitable2 instance in a VMwa
 
 ### 3. **What is Netdiscover?**
 
-Netdiscover is a network enumeration tool which allows a user to quickly discover hosts and MAC addresses quickly on networks.
+Netdiscover is a network enumeration tool that allows a user to discover hosts and MAC addresses quickly on networks.
 
 Netdiscover is quite simple to use with few additional options and therefore makes it a simple and lightweight host detection device. 
 
@@ -61,7 +61,7 @@ Netdiscover allows ARP scanning as well as stealth mode without sending ARP pack
 
 I would use Netdiscover in the event I want to identify hosts and associated MAC addresses quickly. 
 
-Netdiscover is extremely fast and simple to use, I would use Netdiscover when I only need hosts / MAC addresses and not further scan details. If I needed a deeper and different scan I would ofcourse default to using Nmap, which will be in a future blog post!
+Netdiscover is extremely fast and simple to use, I would use Netdiscover when I only need hosts / MAC addresses and not further scan details. If I needed a deeper and different scan I would of course default to using Nmap, which will be in a future blog post!
 
 ---
 
@@ -82,7 +82,7 @@ Netdiscover is extremely fast and simple to use, I would use Netdiscover when I 
 
 <br>
 
-Netdiscover is fast, my scan only has 1 host which is the metasploitable 2 environment. 
+Netdiscover is fast, my scan only has 1 host which is the metasploitable 2 environment. If you have more hosts it may take only slightly longer.
 
 Overall my scan took less than 5 seconds to complete.
 
@@ -114,7 +114,7 @@ Below are the results:
 
     This is excellent if you want to discover hosts that are communicating on the network.
 
-    However, this is a sniffing method and wont find hosts unless they are passing traffic along the network. 
+    However, this is a sniffing method and will not find hosts unless they are passing traffic along the network. 
 
     Try the command below for passive mode:
 
@@ -124,13 +124,13 @@ Below are the results:
 
 ### 6. **Summary**
 
-In this post I covered semi-briefly what Netdiscover does and how it functions.
+In this post, I covered semi-briefly what Netdiscover does and how it functions.
 
 I discussed using netdiscover to actively find hosts on a network. 
 
 Additionally, I covered using netdiscover in a passive mode where it only discovers hosts as traffic passes on the network.
 
-Finally, I discussed how to control which network device to use when scanning if oyu have multiple network devices. 
+Finally, I discussed how to control which network device to use when scanning if you have multiple network devices. 
 
 Thanks for reading!<br>
 
