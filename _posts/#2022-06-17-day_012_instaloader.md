@@ -127,14 +127,33 @@ Below you can see I downloaded 11 posts from the instagram page.
 
 The information included: all of the posts media, the posts captions and the json associated with each post day.
 
-![]()
+Note how many requests instaloader was going to complete 7164, the same amount of posts on the instagram page. In a matter of minutes I could have downlaoded every aspect of the Instagram's instagram page and had that information for as my own archive. 
 
+![](https://raw.githubusercontent.com/matthewomccorkle/matthewomccorkle.github.io/master/_posts/assets/100%20tools/instaloader/instaloader1.PNG)
 
+Below you can see the top 6 most recent instagram posts on the instagram.
+
+![](https://raw.githubusercontent.com/matthewomccorkle/matthewomccorkle.github.io/master/_posts/assets/100%20tools/instaloader/instaloader2.PNG)
+
+To confirm that those 6 posts media and captions were downloaded I have a screenshot below of the folder containing the downloads from my request below.
+
+![](https://raw.githubusercontent.com/matthewomccorkle/matthewomccorkle.github.io/master/_posts/assets/100%20tools/instaloader/instaloader4.PNG)
+
+Finally, I wanted to look at the first post on Instagram and see if it grabbed the photo, video and caption, and Instaloader did! Below are all three files opened.
+
+![](https://raw.githubusercontent.com/matthewomccorkle/matthewomccorkle.github.io/master/_posts/assets/100%20tools/instaloader/instaloader3.PNG)
 
 ---
 
 ### 6. **Summary**
 
+The greatest takeaway from this tool is this:
+
+If you have information online and it is not private it is accesible by anyone. 
+
+If your information is private, even then it could still be accesible. 
+
+In summary, practice safe internet use and sanitize what you post and talk about online. 
 
 
 Thanks for reading!<br>
