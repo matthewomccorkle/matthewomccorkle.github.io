@@ -70,11 +70,28 @@ Netdiscover is extremely fast and simple to use, I would use Netdiscover when I 
 **Note**: You may need to run Netdiscover with root permissions (sudo).
 
     Step 1:
-    Netdsicover is really simple to use.
+    Netdiscover is really simple to use.
 
     In your terminal type:
 
     netdiscover -r <IPaddress/cidr>
+
+<br>
+
+![](https://raw.githubusercontent.com/matthewomccorkle/matthewomccorkle.github.io/master/_posts/assets/100%20tools/netdiscover/netdiscover1.PNG)
+
+<br>
+
+Netdiscover is fast, my scan only has 1 host which is the metasploitable 2 environment. 
+
+Overall my scan took less than 5 seconds to complete.
+
+Below are the results:
+
+![]()
+
+
+
 
 ---
 
