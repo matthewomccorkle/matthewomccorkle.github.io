@@ -69,13 +69,13 @@ The possibilities for the information you can retrieve are nearly unlimited.
 
 Instaloader is an excellent way to download all of your personal post history for archival purposes.
 
-Instaloader is a great tool for OSINT collection from a penetration testers perspective. 
+Instaloader is a great tool for OSINT collection from a penetration testers' perspective. 
 
 You can filter down the exact information variables you need. 
 
 You can schedule a Cronjob to automatically run Instaloader to create your own Instagram archive. 
 
-I want to pause here for a brief moment. Individuals will probably think that this is  a tool that crosses the line for personal privacy. I want to remind those individuals that this only works on public profiles and private profiles that follow a user. So if an individual is worried about privacy, just know this tool does exist and what you place on the internet is not private despite the "privacy options" a social media solution may provide. 
+I want to pause here for a brief moment. Individuals will probably think that this is a tool that crosses the line for personal privacy. I want to remind those individuals that this only works on public profiles and private profiles that follow a user. So if an individual is worried about privacy, just know this tool does exist and what you place on the internet is not private despite the "privacy options" a social media solution may provide. 
 
 ---
 
@@ -125,9 +125,9 @@ Install pip following these directions: https://pip.pypa.io/en/stable/installati
 
 Below you can see I downloaded 11 posts from the instagram page.
 
-The information included: all of the posts media, the posts captions and the json associated with each post day.
+The information included: all of the posts media, the posts captions, and the json associated with each post day.
 
-Note how many requests instaloader was going to complete 7164, the same amount of posts on the instagram page. In a matter of minutes I could have downlaoded every aspect of the Instagram's instagram page and had that information for as my own archive. 
+Note how many requests instaloader was going to complete 7164, the same amount of posts on the instagram page. In a matter of minutes, I could have downloaded every aspect of Instagram's instagram page and had that information as my own archive. 
 
 ![](https://raw.githubusercontent.com/matthewomccorkle/matthewomccorkle.github.io/master/_posts/assets/100%20tools/instaloader/instaloader1.PNG)
 
@@ -135,11 +135,11 @@ Below you can see the top 6 most recent instagram posts on the instagram.
 
 ![](https://raw.githubusercontent.com/matthewomccorkle/matthewomccorkle.github.io/master/_posts/assets/100%20tools/instaloader/instaloader2.PNG)
 
-To confirm that those 6 posts media and captions were downloaded I have a screenshot below of the folder containing the downloads from my request below.
+To confirm that those 6 posts' media and captions were downloaded I have a screenshot below of the folder containing the downloads from my request below.
 
 ![](https://raw.githubusercontent.com/matthewomccorkle/matthewomccorkle.github.io/master/_posts/assets/100%20tools/instaloader/instaloader4.PNG)
 
-Finally, I wanted to look at the first post on Instagram and see if it grabbed the photo, video and caption, and Instaloader did! Below are all three files opened.
+Finally, I wanted to look at the first post on Instagram and see if it grabbed the photo, video, and caption, and Instaloader did! Below are all three files opened.
 
 ![](https://raw.githubusercontent.com/matthewomccorkle/matthewomccorkle.github.io/master/_posts/assets/100%20tools/instaloader/instaloader3.PNG)
 
@@ -149,9 +149,9 @@ Finally, I wanted to look at the first post on Instagram and see if it grabbed t
 
 The greatest takeaway from this tool is this:
 
-If you have information online and it is not private it is accesible by anyone. 
+If you have information online and it is not private it is accessible by anyone. 
 
-If your information is private, even then it could still be accesible. 
+If your information is private, even then it could still be accessible. 
 
 In summary, practice safe internet use and sanitize what you post and talk about online. 
 
