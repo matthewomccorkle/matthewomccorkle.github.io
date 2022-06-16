@@ -63,6 +63,8 @@ I would use Netdiscover in the event I want to identify hosts and associated MAC
 
 Netdiscover is extremely fast and simple to use, I would use Netdiscover when I only need hosts / MAC addresses and not further scan details. If I needed a deeper and different scan I would of course default to using Nmap, which will be in a future blog post!
 
+I would not use netdiscover to perform active scanning if you are worried about sending ARP requests over the network. Any traffic capture or detection system will detect your requests. 
+
 ---
 
 ### 5. **How to use Netdiscover?**
