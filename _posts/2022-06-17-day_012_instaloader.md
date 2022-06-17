@@ -37,8 +37,6 @@ Instaloader is created and maintained by Alexander Graf. If you want to support 
 
 Find **Instaloader** [here](https://github.com/instaloader/instaloader).
 
-Connect with Alexander Graf here.
-
 ---
 
 ### 2. **My Setup**
