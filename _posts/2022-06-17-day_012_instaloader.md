@@ -117,6 +117,7 @@ Install pip following these directions: https://pip.pypa.io/en/stable/installati
 
     Note: I ran it originally with the geotags option, but I am not logged 
     in so that did not work. 
+    
 <br>
 
 **Whoa!** I was honestly a bit surprised at just how easy it is to grab the information from public instagrams. If I logged in I would have access to even more information retrieval.
