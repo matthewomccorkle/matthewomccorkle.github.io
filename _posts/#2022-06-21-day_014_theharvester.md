@@ -1,0 +1,179 @@
+---
+title:  "Day 13 - Nmap (Part 1 - Network Scanner) - 100 tools in 100 days!"
+excerpt: "In this post, I will show you the tool Nmap and how it works."
+mathjax: true
+layout: post
+categories:
+    -- github
+    -- website
+---
+
+1 . Introduction
+<br>
+2 . My Setup
+<br>
+3 . What is Nmap?
+<br>
+4 . Why use Nmap?
+<br>
+5 . How to use Nmap?
+<br>
+6 . Summary
+
+---
+
+## This post is designed to introduce you to the tool Nmap.
+
+![](https://nmap.org/images/sitelogo.png)
+
+*For all future posts I will have a disclaimer here:*
+
+# <span style="color:red">***Disclaimer***</span>: **Please only use Nmap for professional and educational reasons. Do not use this tool for nefarious or malicious reasons.**
+
+---
+
+### 1. **Introduction**
+
+Welcome to the **thirteenth** blog post of 100 tools in 100 days.<br> 
+
+
+Nmap was created in 1997 by Gordon Lyon. Now, 24 years later Gordon still maintains Nmap as well as a group of other security tools.
+
+Find **Nmap** [here](https://nmap.org/).
+
+Nmap can be downloaded for nearly all operating systems. If you want to use Nmap with a graphical user interface you can do so by installing ZenMap or downloading the tool from the Nmap website above. 
+
+---
+
+### 2. **My Setup**
+
+For running the Nmap tool, I used Kali Linux in a VMware Workstation 16 Player virtualized environment.
+
+For hosting a device to run Nmap against I used metasploitable2 in a VMware Workstation 16 Player virtualized environment. 
+
+---
+
+### 3. **What is Nmap?**
+
+Really the more important question here is "What isn't Nmap?" Once you dive deep into the Nmap tool you will see that it can accomplish many tasks for you. 
+
+Today I will cover the basic uses of Nmap such as:
+Host discovery
+Port scanning
+Version detection
+OS detection
+
+In part 2 of a future Nmap blog post, I will cover using Nmap to perform interaction with hosts through the Nmap Scripting Engine.
+
+I am separating the basic use of Nmap from the expanded scripting engine as I feel these are two very different examples of how the tool can be used, making Nmap nearly 2 different tools. For transparency, I will discuss service versioning and operating system detection, both of which technically use the Nmap scripting engine.
+
+---
+
+### 4. **Why use Nmap?**
+
+Nmap should be one of if not the first tool used when mapping a network. Nmap should be your primary networking tool as its capabilities apply to most devices and operating systems. 
+
+Network mapping - Using Nmap you can scan for hosts on a range of IP addresses to determine which addresses are in use.
+
+Port discovery on hosts - you can determine which ports are open on a host.
+
+Version and Operating System discovery - a user can determine which version of software is running on a port, as well as determine which operating system the host is running. 
+
+Note, that most of the common Nmap scanning methods are easily detectable by IDS/IPS so do not scan on networks that you do not have explicit permission to scan. 
+
+---
+
+### 5. **How to use Nmap?**
+
+**Note:** most of the common Nmap scanning methods are easily detectable by IDS/IPS so do not scan on networks that you do not have explicit permission to scan. 
+
+**Note:** I am performing multiple Nmap scans, in a penetration testing environment this is not the correct way of network enumeration as you are contacting the hosts and network multiple times, therefore this is not a representation of accurate penetration testing methods. 
+
+**Note:** You can use these methods on many of the TryHackMe rooms and Hack The Box machines!
+
+
+    Step 1:
+    I am using the command line interface version of Nmap and will therefore 
+    cover command line interaction only in this blog post.
+
+    Open a terminal window, and type:
+
+    nmap --help
+
+    This will bring up the basic help page for Nmap.
+
+<br>
+
+You can also find cheat sheets for Nmap all over the internet which makes using Nmap even easier.
+
+I have found this cheatsheet a great starting point:<br>
+[https://cdn.comparitech.com/wp-content/uploads/2019/06/Nmap-Cheat-Sheet.pdf](https://cdn.comparitech.com/wp-content/uploads/2019/06/Nmap-Cheat-Sheet.pdf)
+
+    Step 2:
+    I want to scan my network to find the Metasploitable2 host computer.
+    I will use the below command to scan for hosts and open ports.
+
+    nmap <ipaddress/cidr>
+
+    or
+
+    nmap 192.168.175.0/24
+
+<br>
+
+Notice below, that the default simplest scan using Nmap found the Metasploitable2 host and the ports/services running. 
+
+![](https://raw.githubusercontent.com/matthewomccorkle/matthewomccorkle.github.io/master/_posts/assets/100%20tools/nmap/nmap1.PNG)
+
+    Step 2a:
+    If you wanted to perform a host only discovery you could tell Nmap to do 
+    a ping scan on the entire network using the following command:
+
+    nmap 192.168.175.0/24 -sP
+
+<br>
+
+![](https://raw.githubusercontent.com/matthewomccorkle/matthewomccorkle.github.io/master/_posts/assets/100%20tools/nmap/nmap4.PNG)
+
+    Step 3:
+    Now I want to know what versions of the services are running on each 
+    port. Additionally, I am going to scan only the metasploitable2 machine 
+    moving forward.
+
+    I run the nmap command with an added option.
+
+    nmap 192.168.175.128 -sV
+
+    The "-sV" option allows nmap to detect the version of the service on each port. 
+
+<br>
+
+![](https://raw.githubusercontent.com/matthewomccorkle/matthewomccorkle.github.io/master/_posts/assets/100%20tools/nmap/nmap2.PNG)
+
+    Step 4:
+    My next step in network enumeration is determining which operating 
+    system is running on the Metasploitable2 host using the command:
+
+    nmap 192.168.175.128 -sV -O
+
+    The "-O" option allows nmap to detect the operating system details. 
+
+<br>
+
+![](https://raw.githubusercontent.com/matthewomccorkle/matthewomccorkle.github.io/master/_posts/assets/100%20tools/nmap/nmap3.PNG)
+
+---
+
+### 6. **Summary**
+
+This post briefly touched the surface level of Nmap's capabilities. 
+
+Hopefully, this has been enough information to get you started using Nmap to discover hosts and the respective ports, services, versions, and operating systems of each on your network. 
+
+Soon I will post part 2 of Nmap where I discuss some of the scripting engine and its capabilities. 
+
+Remember there is a GUI version of Nmap at [https://nmap.org/](https://nmap.org/) which can be easier to use and also creates a graphical network map of hosts. 
+
+Thanks for reading!<br>
+
+If you have suggestions for what tool to cover next, [contact](mailto:matthew.o.mccorkle@gmail.com) me!
