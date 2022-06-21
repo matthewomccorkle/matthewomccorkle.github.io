@@ -111,13 +111,15 @@ As we can see from these results, someone at NeoPets is a Notorious B.I.G. fan!
 Additionally, we found some additional subdomains and their IP addresses as well. 
 
     Step 2:
-    Next, I will look for LinkedIn users that have something about neopets.com in their profile.
+    Next, I will look for LinkedIn users that have something 
+    about neopets.com in their profile.
     
     I ran the following command:
 
     theHarvester -d neopets.com -l 1000 -b linkedin 
 
-    This command searched LinkedIn using Google for up to the first 1000 results where neopets.com was in the user's profile. 
+    This command searched LinkedIn using Google for up to the first 1000 
+    results where neopets.com was in the user's profile. 
 
 <br>
 
