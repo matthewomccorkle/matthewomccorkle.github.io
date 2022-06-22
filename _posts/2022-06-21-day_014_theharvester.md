@@ -26,9 +26,6 @@ categories:
 
 ![](https://raw.githubusercontent.com/matthewomccorkle/matthewomccorkle.github.io/master/_posts/assets/100%20tools/theharvester/theharvester1.png)
 
-
-*For all future posts I will have a disclaimer here:*
-
 # <span style="color:red">***Disclaimer***</span>: **Please only use theHarvester for professional and educational reasons. Do not use this tool for nefarious or malicious reasons.**
 
 ---
