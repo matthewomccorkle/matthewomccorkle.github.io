@@ -44,8 +44,8 @@ Contact Me:
 - Set up a Domain Controller and Active Directory Network on Windows Server 2022.
 - Setup and configured an Elastic Stack using Security Onion.
 
-**[100 Tools in 100 Days](https://matthewomccorkle.github.io/)** | Jun 2022 – Current | An overview of tools used in information security.
-• A blog series where I try out and document a security tool every day for 100 days.
+**[100 Tools in 100 Days](https://matthewomccorkle.github.io/)** | Jun 2022 – Current | An overview of tools used in information security. <br>
+- A blog series where I try out and document a security tool every day for 100 days.
 
 **[NAHBP](https://matthewomccorkle.github.io/honeypot-1/)** – Not Another Honeypot Blog Post - May 2022<br>
 - A 48-hour honeypot implemented using AWS infrastructure in the Middle East (Bahrain) region.
