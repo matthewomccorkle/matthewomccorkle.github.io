@@ -33,18 +33,35 @@ Contact Me:
 
 ## `cd Technical_Projects`:  
 ---
-[NAHBP](https://matthewomccorkle.github.io/) – Not Another Honeypot Blog Post - May 2022<br>
+
+**Cybersecurity HomeLab Project** | Feb 2022 – Present<br>
+- Deployed and configured pfSense firewall.
+- Set up VMware Workstation Pro.
+- Deployed an Ubuntu server running Splunk.
+- Analyzed network traffic using Wireshark and tcpdump.
+- Perform penetration tests using tools like Nmap, Netcat, John the Ripper, Burpsuite, Metasploit.
+- Set up an OpenVPN server on AWS.
+- Set up a Domain Controller and Active Directory Network on Windows Server 2022.
+- Setup and configured an Elastic Stack using Security Onion.
+
+**[100 Tools in 100 Days](https://matthewomccorkle.github.io/)** | Jun 2022 – Current | An overview of tools used in information security.
+• A blog series where I try out and document a security tool every day for 100 days.
+
+**[NAHBP](https://matthewomccorkle.github.io/honeypot-1/)** – Not Another Honeypot Blog Post - May 2022<br>
 - A 48-hour honeypot implemented using AWS infrastructure in the Middle East (Bahrain) region.
 - Analyzed current and common attacks on vulnerable services.
 - 117,908 total attacks, recorded a 10.0 CVSS exploit, recorded U.S.-based attacks on ICS/SCADA fuel system equipment.
 - AWS, Elasticsearch, Logstash, Kibana, Linode, Github, Markdown, Liquid.
+
+**[CVE-2022-30190](https://matthewomccorkle.github.io/follina/)** | Zero-Day Vulnerability | Jun 2022 | matthewomccorkle.github.io/follina/ <br>
+- Built a virtualized home lab environment using Linux to host a malicious Microsoft Word document which allows an attacker to initiate Remote Code Execution on a victim device (virtualized Windows 11 environment).
 
 
 
 ## `cd Additional_Training`:
 ---
 Hack The Box: <br>Top 550 Globally; Local File Inclusion, Common Vulnerabilities and Exposures, Content Management System<br>
-TryHackMe: Top 7% Globally; Fundamentals, Network Exploitation, Linux, Windows Exploitation <br>
+TryHackMe: Top 5% Globally; Fundamentals, Network Exploitation, Linux, Windows Exploitation <br>
 Fullstack Hackathon (CTF) 2022: 2nd place finish out of 9 teams <br>
 
 
