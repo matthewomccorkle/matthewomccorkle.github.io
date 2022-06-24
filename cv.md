@@ -12,13 +12,16 @@ Contact Me:
 
 [LinkedIn](https://www.linkedin.com/in/matthewomccorkle)
 
+---
+
 ## `whoami`:<br>
 *Motivated Information Security Professional & U.S. Army Veteran with a career-long record of problem-solving, communication, and team leadership success. Eager to positively contribute to team and organizational goals by implementing and monitoring security systems, mitigating vulnerabilities, analyzing threats, optimizing and improving the organization’s overall security posture.*
 <br>
 
+---
 
 ## `cd Technical_Skills`:
----
+
 **Knowledgeable:** AWS, Compliance, Cryptography, Enumeration, Forensics, HTTP Requests, IAM, IDS/IPS, Incident Response, Linode, Linux, Lockheed Cyber Kill Chain, Markdown, MITRE ATT&CK, OSI Model, OSINT, OWASP Top 10, Penetration Testing, Reconnaissance, Risk Management, Threat Intelligence, Vulnerability Analysis, Windows Operating Systems.<br> 
 **Proficient:** Burpsuite, Elasticsearch, Firewalls, GitHub, Kibana, Metasploit, Nessus, NMAP, Snort, Splunk, Wireshark.
 
@@ -29,10 +32,9 @@ Contact Me:
         Splunk Core Certified user (Expected: July 2022)
         Google IT Automation with Python Professional Certificate (August 2022)
 
-
+---
 
 ## `cd Technical_Projects`:  
----
 
 **Cybersecurity HomeLab Project** | Feb 2022 – Present<br>
 - Deployed and configured pfSense firewall.
@@ -56,18 +58,18 @@ Contact Me:
 **[CVE-2022-30190](https://matthewomccorkle.github.io/follina/)** | Zero-Day Vulnerability | Jun 2022 | matthewomccorkle.github.io/follina/ <br>
 - Built a virtualized home lab environment using Linux to host a malicious Microsoft Word document which allows an attacker to initiate Remote Code Execution on a victim device (virtualized Windows 11 environment).
 
-
+---
 
 ## `cd Additional_Training`:
----
+
 Hack The Box: <br>Top 550 Globally; Local File Inclusion, Common Vulnerabilities and Exposures, Content Management System<br>
 TryHackMe: Top 5% Globally; Fundamentals, Network Exploitation, Linux, Windows Exploitation <br>
 Fullstack Hackathon (CTF) 2022: 2nd place finish out of 9 teams <br>
 
-
+---
 
 ## `cd Experience`:
----
+
 President of LLC 2016 - 2020
 - Founded and directed a liquid dispense service company providing draft beer, wine, coffee, and more by delivering on-tap solutions for 47 clients internationally.<br>
 - Pioneered the company’s strategic vision and mission, building all necessary operational and financial infrastructure to drive sustainable growth and development resulting in quarterly sales in excess of $150K.
@@ -79,10 +81,10 @@ U.S. Army	2009 – 2018
 - Served as a mid-level career leader; supervised 54 personnel in a high-hazard, high-energy team environment. <br>
 - Received 13 awards for service and excellence.
 
-
+---
 
 ## `cd Education`:
----
+
 **Fullstack Academy Cybersecurity Analytics Bootcamp**	 2022
 
 Full-time, immersive cyber security program designed to train in advanced red team/blue team skills and use of security tools.<br>
