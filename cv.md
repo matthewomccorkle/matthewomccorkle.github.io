@@ -4,7 +4,7 @@ title: ""
 ---
 
 # Matthew McCorkle	
-### Security Operations Center Analyst 
+### Information Security Professional 
 
 Contact Me:
 
@@ -13,7 +13,7 @@ Contact Me:
 [LinkedIn](https://www.linkedin.com/in/matthewomccorkle)
 
 ## `whoami`:<br>
-*Motivated Security Operations Center Analyst & U.S. Army Veteran with a career-long record of problem-solving, communication, and team leadership success. Eager to positively contribute to team and organizational goals by implementing and monitoring security systems, mitigating vulnerabilities, analyzing threats, optimizing and improving the organization’s overall security posture.*
+*Motivated Information Security Professional & U.S. Army Veteran with a career-long record of problem-solving, communication, and team leadership success. Eager to positively contribute to team and organizational goals by implementing and monitoring security systems, mitigating vulnerabilities, analyzing threats, optimizing and improving the organization’s overall security posture.*
 <br>
 
 
