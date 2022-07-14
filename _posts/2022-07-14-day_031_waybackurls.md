@@ -24,7 +24,7 @@ categories:
 
 ## This post is designed to introduce you to the tool waybackurls.
 
-![](https://raw.githubusercontent.com/marco-lancini/waybackurls/master/.github/goscan_logo.png)
+![](https://archive.org/web/images/logo_wayback_210x77.png)
 
 # <span style="color:red">***Disclaimer***</span> : **Please only use waybackurls for professional and educational reasons. Do not use this tool for nefarious or malicious reasons.**
 
