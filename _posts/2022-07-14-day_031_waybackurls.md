@@ -36,7 +36,7 @@ Welcome to the **thirty-first** blog post of 100 tools in 100 days.<br>
 
 Find **waybackurls** [here](https://github.com/tomnomnom/waybackurls).
 
-Tom Hudson created waybackurls, and a bunch of other cool tools you will see in the future posts. 
+Tom Hudson created waybackurls, and a bunch of other cool tools you will see in future posts. 
 
 Find Tom Hudson here:
 
@@ -57,16 +57,16 @@ For running the waybackurls tool, I used Kali Linux in a VMware Workstation 16 P
 
 ### 3. **What is waybackurls?**
 
-waybackurls is a tool for grabbing URLs from the the Internet Archives Way Back Machine. You can find the Way Back Machine [here](https://archive.org/web/).
+waybackurls is a tool for grabbing URLs from the Internet Archives Way Back Machine. You can find the Way Back Machine [here](https://archive.org/web/).
 
 
 ---
 
 ### 4. **Why use waybackurls?**
 
-Finding old domains is usually a form of reconnaissance for any penetration tester. Using waybackurls a tester could grab all of the urls from waybackmachine with a simple command. 
+Finding old domains is usually a form of reconnaissance for any penetration tester. Using waybackurls a tester could grab all of the URLs from waybackmachine with a simple command. 
 
-The tester could output the urls into a file where further sorting and analysis could be performed to find information from less current sections of the website. 
+The tester could output the URLs into a file where further sorting and analysis could be performed to find information from less current sections of the website. 
 
 ---
 
@@ -74,7 +74,7 @@ The tester could output the urls into a file where further sorting and analysis 
 
 waybackurls is written in the Go language and uses the go install feature for downloading and installing.
 
-If you do not have Go installed or do not have your variables setup for running go binaries perform Step 0 first.
+If you do not have Go installed or do not have your variables set up for running go binaries perform Step 0 first.
 
     Step 0 (a):
     Run the following command to install Go:
@@ -130,19 +130,32 @@ If you cannot, a temporary fix is to run the binary from its path which is:
 `/home/YOURUSERNAME/go/bin/waybackurls`
 
     Step 3:
-    For this demonstration I am going to use the domain: neopets.com and 
+    For this demonstration, I am going to use the domain: neopets.com and 
     output the URLs into a file named neopets. Here is the command:
 
     waybackurls neopets.com > neopets
 
 <br>
 
-![]()
+![](https://raw.githubusercontent.com/matthewomccorkle/matthewomccorkle.github.io/master/_posts/assets/100%20tools/waybackurls/waybackurls3.PNG)
+
+waybackurls was able to pull 14798 URLs into the file neopets!
+That is a lot of URLs to analyze. 
+
+![](https://raw.githubusercontent.com/matthewomccorkle/matthewomccorkle.github.io/master/_posts/assets/100%20tools/waybackurls/waybackurls4.PNG)
+
+![](https://raw.githubusercontent.com/matthewomccorkle/matthewomccorkle.github.io/master/_posts/assets/100%20tools/waybackurls/neopets.gif)
+
+With this information, a tester or analyst could use other various Linux commands to filter out information, or they could input this file into a data analysis tool to look for specific items of interest.
 
 
 ### 6. **Summary**
 
+waybackurls is a simple URL grabber for the Way Back Machine written in the Go Language by Tom Hudson. Check out Tom's GitHub [here](https://github.com/tomnomnom).
 
+A penetration tester may use waybackurls to find information during reconnaissance that may help during the test.
+
+An analyst may use waybackurls to interact with less updated versions of a website to find security issues. 
 
 I hope you enjoyed this blog post.
 
