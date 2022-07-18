@@ -133,7 +133,7 @@ Because I am using Debian Linux (Kali runs on Debian) I am going to use the apt 
 <br>
 
     Step 4b (Playing local save):
-    asciienma will tell you exactly where it saved your recording.
+    asciinema will tell you exactly where it saved your recording.
     To view the recording in your terminal type:
 
     asciinema play /path/to/your/recording
@@ -153,7 +153,7 @@ The best part is that this playback allows for copy and pasting of the commands 
     You need to have made an account and ran the command from step 2.
 
     After you type exit to stop recording the prompt will ask if you want to 
-    save to your asciienma.org account. If you press <enter> then it will 
+    save to your asciinema.org account. If you press <enter> then it will 
     save online and display the URL where you can access the save. This 
     saved recording is private and uploaded via HTTPS so it is somewhat secure.
 
