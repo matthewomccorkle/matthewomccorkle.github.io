@@ -24,7 +24,7 @@ categories:
 
 ## This post is designed to introduce you to the tool asciinema.
 
-![]()
+![](https://pbs.twimg.com/profile_images/542071558085148673/5Pz7-WC6_400x400.png)
 
 # <span style="color:red">***Disclaimer***</span> : **Please only use asciinema for professional and educational reasons. Do not use this tool for nefarious or malicious reasons.**
 
