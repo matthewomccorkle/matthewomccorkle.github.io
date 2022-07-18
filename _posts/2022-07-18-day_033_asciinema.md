@@ -50,17 +50,17 @@ For running the asciinema tool, I used Kali Linux in a VMware Workstation 16 Pla
 
 asciinema is a terminal recording tool. 
 
-asiinema records your commands and typing and saves it as a file. 
+asciinema records your commands and typing and saves it as a file for playback. 
 
-What is really great about this tool is that when you play the recording back, it plays it in your terminal where you can copy and past commands and words as recorded. 
+What is really great about this tool is that when you play the recording back, it plays it in your terminal where you can copy commands and words as recorded. 
 
 ---
 
 ### 4. **Why use asciinema?**
 
-Education! You can record your command line work and then send it to other for educational purposes.
+Education! You can record your command line work and then send it to others for educational purposes.
 
-Record Keeping! You can use this to create a record of work completed for your own records or submission to employer, etc. 
+Record Keeping! You can use this to create a record of work completed for your own records or submission to an employer, etc. 
 
 Documenting penetration test attacks! You can use this tool to document your commands used during penetration testing. This can then be used in a digital report format for your client. Additionally, you can use this recording for junior testers on your team to reference and learn from during their testing. 
 
@@ -70,7 +70,7 @@ Evidence! You can use this tool to create evidence recordings ( of course see if
 
 ### 5. **How to use asciinema?**
 
-First you need to install asciinema onto your device. There are many ways to do that listed [here](https://asciinema.org/docs/installation).
+First, you need to install asciinema onto your device. There are many ways to do that listed [here](https://asciinema.org/docs/installation).
 Because I am using Debian Linux (Kali runs on Debian) I am going to use the apt command.
 
     Step 0 (optional):
@@ -150,7 +150,7 @@ The best part is that this playback allows for copy and pasting of the commands 
 <br>
 
     Step 5a (Remote save on asciinema.org):
-    You need to have made an account and ran the command from step 2.
+    You need to have made an account at asciinema.org and run the authorization command from step 2.
 
     After you type exit to stop recording the prompt will ask if you want to 
     save to your asciinema.org account. If you press <enter> then it will 
@@ -175,7 +175,7 @@ You can even play the recording from the web into your own terminal using the fo
 
 asciinema is a powerful pseudo-terminal recording tool. 
 
-This tool allows a user to record all of the input in their terminal and outputs the recording as file which can be viewed, referenced, copied, etc in a terminal window.
+This tool allows a user to record all of the input in their terminal and outputs the recording as a file which can be viewed, referenced, copied, etc in a terminal window.
 
 Additionally, you can upload the recording to an asciienma.org account where you could share or download the playback directly into your terminal. 
 
