@@ -108,7 +108,7 @@ Because I am using Debian Linux (Kali runs on Debian) I am going to use the apt 
 
 <br>
 
-![]()
+![](https://raw.githubusercontent.com/matthewomccorkle/matthewomccorkle.github.io/master/_posts/assets/100%20tools/asciinema/asciinema1.PNG)
 
 <br>
 
@@ -119,6 +119,10 @@ Because I am using Debian Linux (Kali runs on Debian) I am going to use the apt 
     
     This will prompt whether you want to save the recording locally 
     or to your online asciinema.org account.
+
+<br>
+
+![](https://raw.githubusercontent.com/matthewomccorkle/matthewomccorkle.github.io/master/_posts/assets/100%20tools/asciinema/asciinema2.PNG)
 
 <br>
 
