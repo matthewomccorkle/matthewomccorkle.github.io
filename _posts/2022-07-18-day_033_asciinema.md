@@ -145,7 +145,7 @@ Because I am using Debian Linux (Kali runs on Debian) I am going to use the apt 
 
 The best part is that this playback allows for copy and pasting of the commands as the recording takes place in a pseudo-terminal.
 
-![]()
+![](https://raw.githubusercontent.com/matthewomccorkle/matthewomccorkle.github.io/master/_posts/assets/100%20tools/asciinema/asciinema.gif)
 
 <br>
 
@@ -155,7 +155,7 @@ The best part is that this playback allows for copy and pasting of the commands 
     After you type exit to stop recording the prompt will ask if you want to 
     save to your asciinema.org account. If you press <enter> then it will 
     save online and display the URL where you can access the save. This 
-    saved recording is private and uploaded via HTTPS so it is somewhat secure.
+    saved recording is private and uploaded via HTTPS.
 
 <br>
 
