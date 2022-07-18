@@ -132,10 +132,6 @@ Because I am using Debian Linux (Kali runs on Debian) I am going to use the apt 
 
 <br>
 
-![]()
-
-<br>
-
     Step 4b (Playing local save):
     asciienma will tell you exactly where it saved your recording.
     To view the recording in your terminal type:
@@ -144,7 +140,7 @@ Because I am using Debian Linux (Kali runs on Debian) I am going to use the apt 
 
 <br>
 
-![]()
+![](https://raw.githubusercontent.com/matthewomccorkle/matthewomccorkle.github.io/master/_posts/assets/100%20tools/asciinema/asciinema5.PNG)
 
 
 The best part is that this playback allows for copy and pasting of the commands as the recording takes place in a pseudo-terminal.
