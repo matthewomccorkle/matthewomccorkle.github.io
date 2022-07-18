@@ -97,7 +97,7 @@ Because I am using Debian Linux (Kali runs on Debian) I am going to use the apt 
 
 <br>
 
-![]()
+![](https://raw.githubusercontent.com/matthewomccorkle/matthewomccorkle.github.io/master/_posts/assets/100%20tools/asciinema/asciinema6.PNG)
 
 <br>
 
@@ -159,7 +159,13 @@ The best part is that this playback allows for copy and pasting of the commands 
 
 <br>
 
-![]()
+If you upload the recording to your asciinema.org account you can then share the link (while it remains private for searching on asciinema.org).
+
+You could embed the recording as you see below.
+
+You can even play the recording from the web into your own terminal using the following command:
+
+`asciinema play https://asciinema.org/a/pathtoyourvideo`
 
 [![asciicast](https://asciinema.org/a/hjWFkp9ir5uinW4NeuebPGZW0.svg)](https://asciinema.org/a/hjWFkp9ir5uinW4NeuebPGZW0)
 
@@ -167,7 +173,11 @@ The best part is that this playback allows for copy and pasting of the commands 
 
 ### 6. **Summary**
 
+asciinema is a powerful pseudo-terminal recording tool. 
 
+This tool allows a user to record all of the input in their terminal and outputs the recording as file which can be viewed, referenced, copied, etc in a terminal window.
+
+Additionally, you can upload the recording to an asciienma.org account where you could share or download the playback directly into your terminal. 
 
 I hope you enjoyed this blog post.
 
