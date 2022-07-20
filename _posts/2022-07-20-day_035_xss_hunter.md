@@ -26,6 +26,8 @@ categories:
 
 ![](https://raw.githubusercontent.com/mandatoryprogrammer/mandatoryprogrammer/main/cyberpunk.gif)
 
+**^^ Image Credit Matthew Bryant ^^**
+
 # <span style="color:red">***Disclaimer***</span> : **Please only use XSS Hunter for professional and educational reasons. Do not use this tool for nefarious or malicious reasons.**
 
 ---
