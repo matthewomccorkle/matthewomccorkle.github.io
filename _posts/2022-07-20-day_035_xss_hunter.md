@@ -64,15 +64,15 @@ The Open Web Application Security Project (OWASP) lists cross-site scripting in 
 
 Security researchers, penetration testers, developers, bug bounty hunters, etc. often look for cross-site scripting vulnerabilities on web apps. 
 
-XSS Hunter allows for quick and easy payload generation using a custom domain aligned with your XSS Hunter account. Everytime you use a XSS Hunter payload the web application captures a screenshot of the vulnerable site and other information to document the vulnerability.
+XSS Hunter allows for quick and easy payload generation using a custom domain aligned with your XSS Hunter account. Every time you use an XSS hunter payload is triggered, the web application captures a screenshot of the vulnerable site and other information to document the vulnerability.
 
-Additionally, a user can setup XSS Hunter Express on their own device and host their own site with payloads for use with XSS Hunter.
+Additionally, a user can set up XSS Hunter Express on their own device and host their own site with payloads for use with XSS Hunter.
 
 ---
 
 ### 5. **How to use XSS Hunter?**
 
-For my example I am using XSS Hunter web version to submit a XSS payload to my Metasploitable 2 Damn Vulnerable Web Application (DVWA), I have turned security down to low on DVWA to ensure the XSS attempt works for this example. 
+For my example I am using the XSS Hunter web version to submit an XSS payload to my Metasploitable 2 Damn Vulnerable Web Application (DVWA), I have turned security down to low on DVWA to ensure the XSS attempt works for this example. 
 
 Sign up for your XSS Hunter account here: [https://xsshunter.com/signup](https://xsshunter.com/signup)
 
@@ -95,7 +95,7 @@ Sign up for your XSS Hunter account here: [https://xsshunter.com/signup](https:/
 ![](https://raw.githubusercontent.com/matthewomccorkle/matthewomccorkle.github.io/master/_posts/assets/100%20tools/xss_hunter/xsshunter2.PNG)
 
     Step 3:
-    In the XSS Hunter website you will see the XSS Fires load the detected 
+    On the XSS Hunter website, you will see the XSS Fires load the detected 
     vulnerability and create a report for understanding. 
 
 <br>
@@ -103,7 +103,7 @@ Sign up for your XSS Hunter account here: [https://xsshunter.com/signup](https:/
 ![](https://raw.githubusercontent.com/matthewomccorkle/matthewomccorkle.github.io/master/_posts/assets/100%20tools/xss_hunter/xsshunter3.PNG)
 
     Step 4:
-    The report can be viewed for details which shows how the XSS occured and some best practices to safeguard from it. 
+    The report can be viewed for details that show how the XSS occurred and some best practices to safeguard from it. 
 
     Additionally, the website allows the user to generate a report in Markdown which is extremely convenient for many application uses. 
 
