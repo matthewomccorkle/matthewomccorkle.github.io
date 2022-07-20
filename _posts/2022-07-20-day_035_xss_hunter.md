@@ -83,11 +83,41 @@ Sign up for your XSS Hunter account here: [https://xsshunter.com/signup](https:/
 
     I chose the basic XSS payload as I know that it will work on the DVWA. 
 
-![]()
+<br>
+
+![](https://raw.githubusercontent.com/matthewomccorkle/matthewomccorkle.github.io/master/_posts/assets/100%20tools/xss_hunter/xsshunter1.PNG)
+
+    Step 2:
+    Submit the payload into the input you are testing for cross-site scripting.
+
+<br>
+
+![](https://raw.githubusercontent.com/matthewomccorkle/matthewomccorkle.github.io/master/_posts/assets/100%20tools/xss_hunter/xsshunter2.PNG)
+
+    Step 3:
+    In the XSS Hunter website you will see the XSS Fires load the detected 
+    vulnerability and create a report for understanding. 
+
+<br>
+
+![](https://raw.githubusercontent.com/matthewomccorkle/matthewomccorkle.github.io/master/_posts/assets/100%20tools/xss_hunter/xsshunter3.PNG)
+
+    Step 4:
+    The report can be viewed for details which shows how the XSS occured and some best practices to safeguard from it. 
+
+    Additionally, the website allows the user to generate a report in Markdown which is extremely convenient for many application uses. 
+
+<br>
+
+![](https://raw.githubusercontent.com/matthewomccorkle/matthewomccorkle.github.io/master/_posts/assets/100%20tools/xss_hunter/xsshunter4.PNG)
+
+![](https://raw.githubusercontent.com/matthewomccorkle/matthewomccorkle.github.io/master/_posts/assets/100%20tools/xss_hunter/xsshunter5.PNG)
 
 ### 6. **Summary**
 
+If you are a security researcher, defender, or tester you should consider using the entire suite of XSS Hunter to produce custom payloads for your testing purposes. 
 
+XSS Hunter allows for organization of XSS successful attempts and generates reports for evidence and understanding. 
 
 I hope you enjoyed this blog post.
 
