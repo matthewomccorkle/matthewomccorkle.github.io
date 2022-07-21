@@ -52,22 +52,22 @@ Blackbird is an open source intelligence tool used to check for usernames on 144
 
 ### 4. **Why use Blackbird?**
 
-Blackbird can be used to gather as many pieces of open source data on an organization. Many organization use social media and what they post on social media may offer insight to a penetration tester during testing. 
+Blackbird can be used to gather as many pieces of open source data on an organization. Many organizations use social media and their posts may offer insight to a penetration tester during testing. 
 
-Additionally, Blackbird can be used by HR personnel and organizations to conduct research on employees social media use outside of the work. 
+Additionally, Blackbird can be used by HR personnel and organizations to conduct research on employees' social media use outside of work. 
 
-Finally, a security researcher for an organization may use Blackbird to determine if social media accounts tied to an organization are hosting information that may make entry for malicious actors easier. 
+Finally, a security researcher for an organization may use Blackbird to determine if social media accounts tied to an organization are hosting information that may lead to an entry point for malicious actors.
 
 ---
 
 ### 5. **How to use Blackbird?**
 
-Blackbird works in the terminal as command line only and as a self hosted web server with a GUI and export option. I will show both uses of Blackbird in the below demonstrations.
+Blackbird works in the terminal as command line and as a self hosted web server with a GUI and export option. I will show both uses of Blackbird in the below demonstrations.
 
-For my sample username I am searching for `analyst` to keep both results consistent. 
+For my sample username, I am searching for `analyst` to keep both results consistent. 
 
     Step 1:
-    First you need to download and install Blackbird.
+    First, you need to download and install Blackbird.
     In your terminal enter the following commands:
 
     git clone https://github.com/p1ngul1n0/blackbird
@@ -88,7 +88,7 @@ For my sample username I am searching for `analyst` to keep both results consist
 
 ![](https://raw.githubusercontent.com/matthewomccorkle/matthewomccorkle.github.io/master/_posts/assets/100%20tools/blackbird/blackbird0.PNG)
 
-# <span style="color:red">**Warning:**</span> some of the sites tested are NSFW. Please proceed with caution as the screenshots show URL's to inappropriate for work websites. 
+# <span style="color:red">**Warning:**</span> some of the sites tested are NSFW. Please proceed with caution as the screenshots show URLs inappropriate for work websites. 
 
     Step 3 (CLI):
     Command line use:
@@ -111,7 +111,7 @@ For my sample username I am searching for `analyst` to keep both results consist
 ![](https://raw.githubusercontent.com/matthewomccorkle/matthewomccorkle.github.io/master/_posts/assets/100%20tools/blackbird/blackbird1.PNG)
 
     Step 5 (WEB):
-    On your browser navigate to the webserver address displayed from step 4.
+    On your browser navigate to the web server address displayed in step 4.
 
     http://127.0.0.1:5000
 
@@ -121,17 +121,16 @@ For my sample username I am searching for `analyst` to keep both results consist
 
     Step 6 (WEB):
     Web GUI use is extremely easy. 
-    Type the username you want to search and hit the arrow button to the 
-    right of the input field perform the search. 
+    Type the username you want to search for and click the arrow button to the right of the input field to perform the search. 
 
-    Once search is complete you will see a website with results.
+    Once the search is complete you will see a website with results.
 
 <br>
 
 ![](https://raw.githubusercontent.com/matthewomccorkle/matthewomccorkle.github.io/master/_posts/assets/100%20tools/blackbird/blackbird3.PNG)
 
     Step 7 (WEB):
-    From the web results you can export the results as a PDF file by clicking
+    From the web results, you can export the results as a PDF file by clicking
     export as, choosing PDF and saving the file.
 
 <br>
@@ -148,7 +147,7 @@ The PDF allows for easy viewing of results, captured metadata, and possible capt
 
 Blackbird is an open source intelligence tool for searching usernames at 144 popular websites.
 
-Blackbird uses 1,000 different user agents to prevent blocking of requests.
+Blackbird uses 1,000 different user agents to prevent the blocking of requests.
 
 Blackbird functions on HTTP request codes to determine if a username is matched to a profile on the site tested. 
 
