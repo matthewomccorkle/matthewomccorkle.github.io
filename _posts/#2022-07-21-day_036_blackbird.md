@@ -79,19 +79,80 @@ For my sample username I am searching for `analyst` to keep both results consist
 <br>
 
     Step 2:
+    To view the help page for Blackbird enter the following command while 
+    inside the blackbird directory from step 1:
+
+    python3 blackbird.py --help
+
+<br>
+
+![](https://raw.githubusercontent.com/matthewomccorkle/matthewomccorkle.github.io/master/_posts/assets/100%20tools/blackbird/blackbird0.PNG)
+
+# <span style="color:red">**Warning:**</span> some of the sites tested are NSFW. Please proceed with caution as the screenshots show URL's to inappropriate for work websites. 
+
+    Step 3 (CLI):
     Command line use:
-    To use Blackbird in the command line enter the following command while inside the blackbird directory:
+    To use Blackbird in the command line enter the following command:
 
     python blackbird.py -u username
 
 <br>
 
-![]()
+![](https://raw.githubusercontent.com/matthewomccorkle/matthewomccorkle.github.io/master/_posts/assets/100%20tools/blackbird/blackbird6.PNG)
 
+    Step 4 (WEB):
+    Web GUI use:
+    To use Blackbird as a self hosted website enter the following command:
+
+    python blackbird.py --web
+
+<br>
+
+![](https://raw.githubusercontent.com/matthewomccorkle/matthewomccorkle.github.io/master/_posts/assets/100%20tools/blackbird/blackbird1.PNG)
+
+    Step 5 (WEB):
+    On your browser navigate to the webserver address displayed from step 4.
+
+    http://127.0.0.1:5000
+
+<br>
+
+![](https://raw.githubusercontent.com/matthewomccorkle/matthewomccorkle.github.io/master/_posts/assets/100%20tools/blackbird/blackbird2.PNG)
+
+    Step 6 (WEB):
+    Web GUI use is extremely easy. 
+    Type the username you want to search and hit the arrow button to the 
+    right of the input field perform the search. 
+
+    Once search is complete you will see a website with results.
+
+<br>
+
+![](https://raw.githubusercontent.com/matthewomccorkle/matthewomccorkle.github.io/master/_posts/assets/100%20tools/blackbird/blackbird3.PNG)
+
+    Step 7 (WEB):
+    From the web results you can export the results as a PDF file by clicking
+    export as, choosing PDF and saving the file.
+
+<br>
+
+![](https://raw.githubusercontent.com/matthewomccorkle/matthewomccorkle.github.io/master/_posts/assets/100%20tools/blackbird/blackbird4.PNG)
+
+<br>
+
+The PDF allows for easy viewing of results, captured metadata, and possible captured profile photos.
+
+![](https://raw.githubusercontent.com/matthewomccorkle/matthewomccorkle.github.io/master/_posts/assets/100%20tools/blackbird/blackbird5.PNG)
 
 ### 6. **Summary**
 
- 
+Blackbird is an open source intelligence tool for searching usernames at 144 popular websites.
+
+Blackbird uses 1,000 different user agents to prevent blocking of requests.
+
+Blackbird functions on HTTP request codes to determine if a username is matched to a profile on the site tested. 
+
+The information is easily exported as an easy to view PDF report.  
 
 I hope you enjoyed this blog post.
 
