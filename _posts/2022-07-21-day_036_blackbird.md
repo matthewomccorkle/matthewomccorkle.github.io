@@ -121,7 +121,8 @@ For my sample username, I am searching for `analyst` to keep both results consis
 
     Step 6 (WEB):
     Web GUI use is extremely easy. 
-    Type the username you want to search for and click the arrow button to the right of the input field to perform the search. 
+    Type the username you want to search for and click the arrow button to 
+    the right of the input field to perform the search. 
 
     Once the search is complete you will see a website with results.
 
