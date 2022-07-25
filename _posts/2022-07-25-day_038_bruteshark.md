@@ -45,7 +45,7 @@ Find Oded Shimon's blog posts on [Medium](https://medium.com/@contact.oded.shimo
 
 For running the BruteShark tool, I used Kali Linux in a VMware Workstation 16 Player virtualized environment.
 
-For the sample PCAP files I used the ones provided by Oded on the BruteShark GitHub [here](https://github.com/odedshimon/BruteShark/tree/master/Pcap_Examples).
+For the sample PCAP files, I used the ones provided by Oded on the BruteShark GitHub [here](https://github.com/odedshimon/BruteShark/tree/master/Pcap_Examples).
 
 You can download them using the command:
 
@@ -58,7 +58,7 @@ You can download them using the command:
 
 Directly from Oded Shimon's description:
 
-"BruteShark is a Network Forensic Analysis Tool (NFAT) that performs deep processing and inspection of network traffic (mainly PCAP files, but it also capable of directly live capturing from a network interface). It includes: password extracting, building a network map, reconstruct TCP sessions, extract hashes of encrypted passwords and even convert them to a Hashcat format in order to perform an offline Brute Force attack." -[Oded Shimon](https://github.com/odedshimon/BruteShark#:~:text=BruteShark%20is%20a,Brute%20Force%20attack).
+"BruteShark is a Network Forensic Analysis Tool (NFAT) that performs deep processing and inspection of network traffic (mainly PCAP files, but is also capable of directly live capturing from a network interface). It includes: password extracting, building a network map, reconstruct TCP sessions, extract hashes of encrypted passwords and even convert them to a Hashcat format in order to perform an offline Brute Force attack." -[Oded Shimon](https://github.com/odedshimon/BruteShark#:~:text=BruteShark%20is%20a,Brute%20Force%20attack).
 
 So in other words we can extract files, credentials, build network diagrams, and reconstruct sessions from PCAP files and live capture of network traffic. 
 
@@ -71,7 +71,7 @@ Today I will use the example PCAP files to perform a file extraction and credent
 
 BruteShark allows a network administrator to analyze traffic for malicious activity, insecure communication methods, weak passwords, and find vulnerabilities in the networking configuration.
 
-A penetration tester may use BruteShark to capture network traffic for offline extraction of credentials, build a network diagram, and extracting files that may leak information. 
+A penetration tester may use BruteShark to capture network traffic for offline extraction of credentials, build a network diagram, and extract files that may leak information. 
 
 ---
 
@@ -154,7 +154,7 @@ This command output the hashes into the folder kerberos/Hashes where I could lat
 
 ### 6. **Summary**
 
-BruteShark was created by oded Shimon to perform network forensic analysis of PCAP files and live network traffic.
+BruteShark was created by Oded Shimon to perform network forensic analysis of PCAP files and live network traffic.
 
 BruteShark can extract files, credentials, build network maps, and reconstruct sessions.
 
