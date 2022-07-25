@@ -122,8 +122,11 @@ Although Kali does offer a version of BruteShark I believe it is outdated so we 
 
     Enter the following command to extract the PDF:
 
+    ./BruteSharkCli -i Pcap_Examples/HTTP\ -\ PDF\ file\ download.pcap -m FileExtracting -o pdf  
 
 <br>
+
+This command output the PDF file into the folder /pdf/Files/ where I could then view and interact with the PDF.
 
 ![]()
 
@@ -136,7 +139,7 @@ Although Kali does offer a version of BruteShark I believe it is outdated so we 
 
 <br>
 
-This output the hashes into the folder kerberos/Hashes where I could later crack them offline.
+This command output the hashes into the folder kerberos/Hashes where I could later crack them offline.
 
 ![]()
 
