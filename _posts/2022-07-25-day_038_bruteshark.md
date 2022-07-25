@@ -39,6 +39,7 @@ Find **BruteShark** @ GitHub [here](https://github.com/odedshimon/BruteShark).
 **BruteShark** was created by Oded Shimon find him on [LinkedIn](https://www.linkedin.com/in/oded-shimon-6ba6721a8/)!
 
 Find Oded Shimon's blog posts on [Medium](https://medium.com/@contact.oded.shimon).
+
 ---
 
 ### 2. **My Setup**
