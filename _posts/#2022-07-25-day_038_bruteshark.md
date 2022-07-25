@@ -62,7 +62,7 @@ Directly from Oded Shimon's description:
 
 So in other words we can extract files, credentials, build network diagrams, and reconstruct sessions from PCAP files and live capture of network traffic. 
 
-Today I will use only the example PCAP files to perform a file extraction, credential extraction, and network diagram creation. 
+Today I will use the example PCAP files to perform a file extraction and credential extraction to briefly show the capabilities of BruteShark. 
  
 
 ---
@@ -128,7 +128,11 @@ Although Kali does offer a version of BruteShark I believe it is outdated so we 
 
 This command output the PDF file into the folder /pdf/Files/ where I could then view and interact with the PDF.
 
-![]()
+![](https://raw.githubusercontent.com/matthewomccorkle/matthewomccorkle.github.io/master/_posts/assets/100%20tools/bruteshark/bruteshark5.PNG)
+
+![](https://raw.githubusercontent.com/matthewomccorkle/matthewomccorkle.github.io/master/_posts/assets/100%20tools/bruteshark/bruteshark5a.PNG)
+
+![](https://raw.githubusercontent.com/matthewomccorkle/matthewomccorkle.github.io/master/_posts/assets/100%20tools/bruteshark/bruteshark5b.PNG)
 
     Step 6 (Kerberos Hashed Credential Extraction):
     I am using the Kerberos PCAP example: Kerberos-816.pcap
@@ -141,11 +145,24 @@ This command output the PDF file into the folder /pdf/Files/ where I could then 
 
 This command output the hashes into the folder kerberos/Hashes where I could later crack them offline.
 
-![]()
+![](https://raw.githubusercontent.com/matthewomccorkle/matthewomccorkle.github.io/master/_posts/assets/100%20tools/bruteshark/bruteshark6.PNG)
+
+![](https://raw.githubusercontent.com/matthewomccorkle/matthewomccorkle.github.io/master/_posts/assets/100%20tools/bruteshark/bruteshark6a.PNG)
+
+![](https://raw.githubusercontent.com/matthewomccorkle/matthewomccorkle.github.io/master/_posts/assets/100%20tools/bruteshark/bruteshark6b.PNG)
+
 
 ### 6. **Summary**
 
+BruteShark was created by oded Shimon to perform network forensic analysis of PCAP files and live network traffic.
 
+BruteShark can extract files, credentials, build network maps, and reconstruct sessions.
+
+I hope you can play around with BruteShark and see what you can discover in your PCAP files or live network traffic. 
+
+If you are a Windows user and want to use BruteShark with a nice GUI check out the installer here:
+
+[https://github.com/odedshimon/BruteShark/releases/latest/download/BruteSharkDesktopInstaller_x64.msi](https://github.com/odedshimon/BruteShark/releases/latest/download/BruteSharkDesktopInstaller_x64.msi)
 
 I hope you enjoyed this blog post.
 
