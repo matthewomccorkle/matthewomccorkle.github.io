@@ -1,6 +1,6 @@
 ---
-title:  "Day 39 - TEMPLATE - 100 tools in 100 days!"
-excerpt: "In this post, I will show you the tool TEMPLATE and how it works."
+title:  "Day 39 - WifiInfo - 100 tools in 100 days!"
+excerpt: "In this post, I will show you the tool WifiInfo and how it works."
 mathjax: true
 layout: post
 categories:
@@ -12,21 +12,21 @@ categories:
 <br>
 2 . My Setup
 <br>
-3 . What is TEMPLATE?
+3 . What is WifiInfo?
 <br>
-4 . Why use TEMPLATE?
+4 . Why use WifiInfo?
 <br>
-5 . How to use TEMPLATE?
+5 . How to use WifiInfo?
 <br>
 6 . Summary
 
 ---
 
-## This post is designed to introduce you to the tool TEMPLATE.
+## This post is designed to introduce you to the tool WifiInfo.
 
-![](IMAGE OF TOOL)
+![](https://cdn.pixabay.com/photo/2016/03/30/13/24/wifi-1290667_960_720.png)
 
-# <span style="color:red">***Disclaimer***</span> : **Please only use TEMPLATE for professional and educational reasons. Do not use this tool for nefarious or malicious reasons.**
+# <span style="color:red">***Disclaimer***</span> : **Please only use WifiInfo for professional and educational reasons. Do not use this tool for nefarious or malicious reasons.**
 
 ---
 
@@ -34,29 +34,33 @@ categories:
 
 Welcome to the **thirty-ninth** blog post of 100 tools in 100 days.<br> 
 
-Find **TEMPLATE** @ ## [here]().
+Find **WifiInfo** @ GitHub [here](https://github.com/codingo/Retrieve-Windows-Wifi-Passwords).
+
+Michael Skelton wrote WifiInfo and you can find him on LinkedIn [here](https://www.linkedin.com/in/skeltonm/).
 
 ---
 
 ### 2. **My Setup**
 
-For running the TEMPLATE tool, I used Kali Linux in a VMware Workstation 16 Player virtualized environment.
+This is a PowerShell script, so today I shifted my focus to a Windows 10 device and connected to some networks so you could see the script in use. 
+
+You could run this script through SSH or other reverse shell methodologies from a Linux computer to a victim Windows device. 
 
 ---
 
-### 3. **What is TEMPLATE?**
+### 3. **What is WifiInfo?**
 
  
 
 ---
 
-### 4. **Why use TEMPLATE?**
+### 4. **Why use WifiInfo?**
 
 
 
 ---
 
-### 5. **How to use TEMPLATE?**
+### 5. **How to use WifiInfo?**
 
 
 
