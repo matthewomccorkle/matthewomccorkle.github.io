@@ -50,23 +50,45 @@ You could run this script through SSH or other reverse shell methodologies from 
 
 ### 3. **What is WifiInfo?**
 
- 
+WifiInfo is a powershell script that automates grabbing stored SSID's and their Passwords from a Windows 10, 8 or 7 computer. 
 
 ---
 
 ### 4. **Why use WifiInfo?**
 
+All of the commands in this PowerShell script can be done manually, but Michael has made a simple to use script so you do not have to remember these commands. 
 
+Scenario 1: As a penetration tester you may connect to Windows computers that have been on WiFi networks associated with your victim network. You could gather the SSID and Passwords without a bruteforce attempt from a Windows 10 device using PowerShell and not needing administrative permissions (if PowerShell is enabled). 
+
+Scenario 2: Investigate which WiFi networks an employee computer has connected to. 
+
+Scenario 3: You are a home user, not a hacker or security researcher, you stumbled across this particular post and you forgot your WiFi password of an old router that you connected to two years ago and now are using again today despite it offering dreadfully slow connection speeds. 
 
 ---
 
 ### 5. **How to use WifiInfo?**
 
+This might be the simplest and quickest post I have created so do not blink.
+
+    Step 1:
+    Open PowerShell and paste the following command:
+
+`git clone https://github.com/codingo/Retrieve-Windows-Wifi-Passwords.git; cd .\Retrieve-Windows-Wifi-Passwords\; .\WifiInfo.ps1`
+
+This command is cloning (downloading) the repository where the PowerShell script is located, changing the directory into the downloaded repository folder, and then running the script. 
+
+You should see an output like this (if you have ever connected to a SSID):
+
+![](https://raw.githubusercontent.com/matthewomccorkle/matthewomccorkle.github.io/master/_posts/assets/100%20tools/wifiinfo/wifiinfo1.PNG)
 
 
 ### 6. **Summary**
 
+WifiInfo is great as its a quick and small PoweerShell script which automates the retrieval of SSID's and Passwords stored on a Windows 10, 8 or 7 device.
 
+If you are on a Windows 10 device with PowerShell enabled, you can runt he script without administrator privileges. 
+
+Penetration testers could use stored WiFi information to connect to the network on a device that is unatuhorized, or to capture passwords used and test those passwords for other credentialed areas of the network. 
 
 I hope you enjoyed this blog post.
 
