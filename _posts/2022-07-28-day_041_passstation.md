@@ -46,7 +46,7 @@ For running the Pass Station tool, I used Kali Linux in a VMware Workstation 16 
 
 ### 3. **What is Pass Station?**
 
- Pass Station is a command line tool which searches and displays default credentials for thousands of products and vendors.
+ Pass Station is a command line tool that searches and displays default credentials for thousands of products and vendors.
 
 ---
 
@@ -56,7 +56,7 @@ During penetration testing a tester may find multiple services and hardware on t
 
 Many organizations and administrators often glance over default credentials set for accessing those services and hardware, thus leaving the defaults as is. 
 
-Pass Station offers a quick and searchable databse of thousands of these credential combinations known for many services and pieces of equipment that exist. 
+Pass Station offers a quick and searchable database of thousands of default credential combinations for many services and pieces of equipment. 
 
 Using a command line tool allows the tester to quickly discover and test for the found default credentials from the database that Pass Station provides. 
 
@@ -66,14 +66,16 @@ Using a command line tool allows the tester to quickly discover and test for the
 ### 5. **How to use Pass Station?**
 
     Step 1:
-    Installing Pass Station is easy in Kali linux, simple enter the following command in your terminal:
+    Installing Pass Station is easy in Kali Linux, simply enter the 
+    following command in your terminal to install:
 
     gem install pass-station
 
 <br>
 
     Step 2:
-    Open up the Pass Station help page by entering the following command in your terminal:
+    Open up the Pass Station help page by entering the following 
+    command in your terminal:
 
     pass-station -help
 
@@ -82,7 +84,8 @@ Using a command line tool allows the tester to quickly discover and test for the
 ![](https://raw.githubusercontent.com/matthewomccorkle/matthewomccorkle.github.io/master/_posts/assets/100%20tools/passstation/pass1.PNG)
 
     Step 3:
-    Using Pass Station is easy, in this example I will look for default credentials for Tomcat:
+    Using Pass Station is easy, in this example I will look 
+    for default credentials for Tomcat:
 
     pass-station search tomcat
 
@@ -92,13 +95,13 @@ Using a command line tool allows the tester to quickly discover and test for the
 
 Some limitations of Pass Station are that outputting the results to a wordlist is not an easy command from the way it currently works.
 
-However, you could narrow down search parameters to only find default usernames, output that data as a csv, use the translate command in Linux to remove commas, and the vendor ID, and the first X lines of the file which has Pass Station information which could then output a single username per line file like a wordlist. 
+However, you could narrow down search parameters to only find default usernames, output that data as a CSV, use the translate command in Linux to remove commas, and the vendor ID, and the first X lines of the file which has Pass Station information which could then output a single username per line file like a wordlist. 
 
 
 
 ### 6. **Summary**
 
-Pass Station is a fast command line based search tool which finds default credentials from many services and product vendors. 
+Pass Station is a fast command line based search tool that finds default credentials from many services and product vendors. 
 
 This may be an easier tool during penetration testing than say using Google to narrow down results that apply to your situation. 
 
