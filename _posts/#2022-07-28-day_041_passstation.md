@@ -75,15 +75,32 @@ Using a command line tool allows the tester to quickly discover and test for the
     Step 2:
     Open up the Pass Station help page by entering the following command in your terminal:
 
-    passstation -help
+    pass-station -help
 
 <br>
 
-![]()
+![](https://raw.githubusercontent.com/matthewomccorkle/matthewomccorkle.github.io/master/_posts/assets/100%20tools/passstation/pass1.PNG)
+
+    Step 3:
+    Using Pass Station is easy, in this example I will look for default credentials for Tomcat:
+
+    pass-station search tomcat
+
+<br>
+
+![](https://raw.githubusercontent.com/matthewomccorkle/matthewomccorkle.github.io/master/_posts/assets/100%20tools/passstation/pass2.PNG)
+
+Some limitations of Pass Station are that outputting the results to a wordlist is not an easy command from the way it currently works.
+
+However, you could narrow down search parameters to only find default usernames, output that data as a csv, use the translate command in Linux to remove commas, and the vendor ID, and the first X lines of the file which has Pass Station information which could then output a single username per line file like a wordlist. 
+
+
 
 ### 6. **Summary**
 
+Pass Station is a fast command line based search tool which finds default credentials from many services and product vendors. 
 
+This may be an easier tool during penetration testing than say using Google to narrow down results that apply to your situation. 
 
 I hope you enjoyed this blog post.
 
