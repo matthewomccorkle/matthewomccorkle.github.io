@@ -138,14 +138,12 @@ Note: I am using Kali Linux so my commands may differ from yours if you are usin
 
 <br>
 
-![]()
+![](https://raw.githubusercontent.com/matthewomccorkle/matthewomccorkle.github.io/master/_posts/assets/100%20tools/tmpmail/tmpmail5a.PNG)
 
     Step 7:
     Next I tested the random address and sent it an email from a test account I setup for this series.
 
 <br>
-
-![]()
 
     Step 8:
     To view the inbox enter the following command:
@@ -154,16 +152,22 @@ Note: I am using Kali Linux so my commands may differ from yours if you are usin
 
 <br>
 
-![]()
+![](https://raw.githubusercontent.com/matthewomccorkle/matthewomccorkle.github.io/master/_posts/assets/100%20tools/tmpmail/tmpmail6b.PNG)
 
     Step 9:
     To view the most recent email enter the following command:
 
     tmpmail -r
 
+    To exit w3m type q and then y so: q -> y
+
 <br>
 
-![]()
+This will open the email in the w3m reader. You can navigate the reader using arrow keys. W3m displays the email using html but does not display your attachment (only lists it).
+
+`To exit w3m type q and then y so: q -> y`
+
+![](https://raw.githubusercontent.com/matthewomccorkle/matthewomccorkle.github.io/master/_posts/assets/100%20tools/tmpmail/tmpmail6c.PNG)
 
     Step 10:
     To view a specific email enter the email identification number after the 
@@ -174,20 +178,34 @@ Note: I am using Kali Linux so my commands may differ from yours if you are usin
 
 <br>
 
-![]()
+![](https://raw.githubusercontent.com/matthewomccorkle/matthewomccorkle.github.io/master/_posts/assets/100%20tools/tmpmail/tmpmail7.PNG)
 
     Step 11:
+    To view a specific email in the terminal as plain text enter the following command:
+
+    tmpmail -t 123456789
+
+<br>
+
+![](https://raw.githubusercontent.com/matthewomccorkle/matthewomccorkle.github.io/master/_posts/assets/100%20tools/tmpmail/tmpmail8.PNG)
+
+    Step 12:
     To view a specific email in your browser of choice (must know browser name) enter the following command:
 
     tmpmail -b browsernamehere 123456789
 
 <br>
 
-![]()
+![](https://raw.githubusercontent.com/matthewomccorkle/matthewomccorkle.github.io/master/_posts/assets/100%20tools/tmpmail/tmpmail9a.PNG)
 
-Finally, I wanted to test if the tool could render or retrieve attachments from the temporary mail services and it does. Using the same command in step 11 I opened an email with atatchment and I could then download the attachment as needed.
+Firefox browser view:
 
-![]()
+![](https://raw.githubusercontent.com/matthewomccorkle/matthewomccorkle.github.io/master/_posts/assets/100%20tools/tmpmail/tmpmail9b.PNG)
+
+
+Finally, I wanted to test if the tool could render or retrieve attachments from the temporary mail services and it does. Using the same command in step 12 I opened an email with atatchment and I could then download the attachment as needed.
+
+![](https://raw.githubusercontent.com/matthewomccorkle/matthewomccorkle.github.io/master/_posts/assets/100%20tools/tmpmail/tmpmail9d.PNG)
 
 
 ### 6. **Summary**
