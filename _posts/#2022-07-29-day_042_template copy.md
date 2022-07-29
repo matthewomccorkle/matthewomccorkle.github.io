@@ -93,14 +93,14 @@ Note: I am using Kali Linux so my commands may differ from yours if you are usin
 
 <br>
 
-![]()
+![](https://raw.githubusercontent.com/matthewomccorkle/matthewomccorkle.github.io/master/_posts/assets/100%20tools/tmpmail/tmpmail1.PNG)
 
     Step 2:
-    Next move the executable from its downloaded location to your $PATH, for me that is /usr/bin/.
+    Next move the executable from its downloaded location to your $PATH, for me that is /usr/bin/. You may have to use sudo if you are not root.
 
 <br>
 
-![]()
+![](https://raw.githubusercontent.com/matthewomccorkle/matthewomccorkle.github.io/master/_posts/assets/100%20tools/tmpmail/tmpmail2.PNG)
 
     Step 3:
     Next ensure you can run tmpmail as a command by entering the following command:
@@ -111,7 +111,7 @@ Note: I am using Kali Linux so my commands may differ from yours if you are usin
 
 <br>
 
-![]()
+![](https://raw.githubusercontent.com/matthewomccorkle/matthewomccorkle.github.io/master/_posts/assets/100%20tools/tmpmail/tmpmail3.PNG)
 
     Step 4:
     Install the missing dependencies by entering the following command:
@@ -120,7 +120,7 @@ Note: I am using Kali Linux so my commands may differ from yours if you are usin
 
 <br>
 
-![]()
+![](https://raw.githubusercontent.com/matthewomccorkle/matthewomccorkle.github.io/master/_posts/assets/100%20tools/tmpmail/tmpmail4.PNG)
 
     Step 5:
     Now run the tmpmail help command again to see if tmpmail is full functioning:
@@ -129,7 +129,7 @@ Note: I am using Kali Linux so my commands may differ from yours if you are usin
 
 <br>
 
-![]()
+![](https://raw.githubusercontent.com/matthewomccorkle/matthewomccorkle.github.io/master/_posts/assets/100%20tools/tmpmail/tmpmail5.PNG)
 
     Step 6:
     The first step in using tmpmail is generating a temporary email, enter the following command (I created a random one):
