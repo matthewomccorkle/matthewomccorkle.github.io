@@ -98,7 +98,7 @@ SET loads into a terminal window and creates its own shell that functions very s
 
 <br>
 
-![]()
+![](https://raw.githubusercontent.com/matthewomccorkle/matthewomccorkle.github.io/master/_posts/assets/100%20tools/socialengineertoolkit/setoolkit2.PNG)
 
 **Note:** If at any time you need to go back to the main menu and there is no option, use Ctrl+C.
 
@@ -111,21 +111,21 @@ This example will show you how to perform a credential harvester attack by prese
 
 <br>
 
-![]()
+![](https://raw.githubusercontent.com/matthewomccorkle/matthewomccorkle.github.io/master/_posts/assets/100%20tools/socialengineertoolkit/setoolkit3.PNG)
 
     Step 3b:
     Enter option 3 to select Credential Harvester Attack Method.
 
 <br>
 
-![]()
+![](https://raw.githubusercontent.com/matthewomccorkle/matthewomccorkle.github.io/master/_posts/assets/100%20tools/socialengineertoolkit/setoolkit4.PNG)
 
     Step 3c:
     For simplicity of this example choose option 1 for Web Templates.
 
 <br>
 
-![]()
+![](https://raw.githubusercontent.com/matthewomccorkle/matthewomccorkle.github.io/master/_posts/assets/100%20tools/socialengineertoolkit/setoolkit5.PNG)
 
     Step 3d:
     This is where you would enter an IP address for listening to capture 
@@ -133,45 +133,53 @@ This example will show you how to perform a credential harvester attack by prese
 
 <br>
 
-![]()
+![](https://raw.githubusercontent.com/matthewomccorkle/matthewomccorkle.github.io/master/_posts/assets/100%20tools/socialengineertoolkit/setoolkit6.PNG)
 
     Step 3e:
     I chose option 2, Google template for ease of use for this example.
 
 <br>
 
-![]()
+![](https://raw.githubusercontent.com/matthewomccorkle/matthewomccorkle.github.io/master/_posts/assets/100%20tools/socialengineertoolkit/setoolkit7.PNG)
 
 At this point the website is being hosted at the address chosen in step 3d which for me is `kali.ip.address:80`.
 
     Step 3f (victim):
     On the victim machine you would want to send this hosted page IP address in the form of a phishing email, fake website, 'Click here you won $1,000' style link. Below is what the victim would see if they clicked the fake link.
 
-<br>
-
-![]()
-
-    Step 3g (victim):
     I entered a test username and test password and clicked sign in on the fake Google page. 
 
 <br>
 
-![]()
+![](https://raw.githubusercontent.com/matthewomccorkle/matthewomccorkle.github.io/master/_posts/assets/100%20tools/socialengineertoolkit/setoolkit8.PNG)
 
-    Step 3h: 
+Once the victim enters their login credentials to the fake website the site redirects them to the real site (although not logged in, obviously).
+
+![](https://raw.githubusercontent.com/matthewomccorkle/matthewomccorkle.github.io/master/_posts/assets/100%20tools/socialengineertoolkit/setoolkit10.PNG)
+
+    Step 3g: 
     On the attack machine the captured data is logged in the SET shell and also can be saved to a XML report page for retrieval at a later time. 
 
 <br>
 
-![]()
+![](https://raw.githubusercontent.com/matthewomccorkle/matthewomccorkle.github.io/master/_posts/assets/100%20tools/socialengineertoolkit/setoolkit9.PNG)
+
+![](https://raw.githubusercontent.com/matthewomccorkle/matthewomccorkle.github.io/master/_posts/assets/100%20tools/socialengineertoolkit/setoolkit11.PNG)
+
+The XML file report looks like this:
+
+![](https://raw.githubusercontent.com/matthewomccorkle/matthewomccorkle.github.io/master/_posts/assets/100%20tools/socialengineertoolkit/setoolkit12.PNG)
 
 
+This is one of the many examples of how to use SET to create malicious social-engineering attacks against persons or organizations. 
 
 ### 
 
 ### 6. **Summary**
 
+The Social-Engineering Toolkit (SET) is a tool for crafting social-engineering attacks against people and organizations. 
 
+The tool functions in a similar way as Metasploit and allows attackers to create web-based attacks, phishing campaigns, mass mailing campaigns and many other attack vectors. 
 
 Thanks for reading!<br>
 
