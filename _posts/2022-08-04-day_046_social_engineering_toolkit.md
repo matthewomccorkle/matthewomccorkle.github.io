@@ -1,6 +1,6 @@
 ---
-title:  "Day 46 - Social-Engineer Toolkit - 100 tools in 100 days!"
-excerpt: "In this post, I will show you the tool Social-Engineer Toolkit and how it works."
+title:  "Day 46 - Social-Engineering Toolkit - 100 tools in 100 days!"
+excerpt: "In this post, I will show you the tool Social-Engineering Toolkit and how it works."
 mathjax: true
 layout: post
 categories:
@@ -12,19 +12,19 @@ categories:
 <br>
 2 . My Setup
 <br>
-3 . What is Social-Engineer Toolkit?
+3 . What is Social-Engineering Toolkit?
 <br>
-4 . Why use Social-Engineer Toolkit?
+4 . Why use Social-Engineering Toolkit?
 <br>
-5 . How to use Social-Engineer Toolkit?
+5 . How to use Social-Engineering Toolkit?
 <br>
 6 . Summary
 
 ---
 
-## This post is designed to introduce you to the tool Social-Engineer Toolkit (SET).
+## This post is designed to introduce you to the tool Social-Engineering Toolkit (SET).
 
-# <span style="color:red">***Disclaimer***</span>: **Please only use Social-Engineer Toolkit for professional and educational reasons. Do not use this tool for nefarious or malicious reasons.**
+# <span style="color:red">***Disclaimer***</span>: **Please only use Social-Engineering Toolkit for professional and educational reasons. Do not use this tool for nefarious or malicious reasons.**
 
 ---
 
@@ -33,11 +33,11 @@ categories:
 Welcome to the **forty-sixth** blog post of 100 tools in 100 days.<br> 
 
 
-Find **Social-Engineer Toolkit** @ GitHub [here](https://github.com/trustedsec/social-engineer-toolkit).
+Find **Social-Engineering Toolkit** @ GitHub [here](https://github.com/trustedsec/Social-Engineering-toolkit).
 
 Find TrustedSec website [here](https://www.trustedsec.com/).
 
-Find the SET User Manual @ GitHub [here](https://github.com/trustedsec/social-engineer-toolkit/blob/master/readme/User_Manual.pdf).
+Find the SET User Manual @ GitHub [here](https://github.com/trustedsec/Social-Engineering-toolkit/blob/master/readme/User_Manual.pdf).
 
 SET was originally created by David Kennedy, the Founder of TrustedSec, and you can find him at:
 
@@ -49,21 +49,21 @@ SET was originally created by David Kennedy, the Founder of TrustedSec, and you 
 
 ### 2. **My Setup**
 
-For running the Social-Engineer Toolkit tool, I used Kali Linux in a VMware Workstation 16 Player virtualized environment.
+For running the Social-Engineering Toolkit tool, I used Kali Linux in a VMware Workstation 16 Player virtualized environment.
 
 For my victim device, I am using Ubuntu in a VMware Workstation 16 Player virtualized environment. 
 
 ---
 
-### 3. **What is Social-Engineer Toolkit?**
+### 3. **What is Social-Engineering Toolkit?**
 
-Social-Engineer Toolkit is a framework that allows a penetration tester to create custom attacks (mostly social engineering attacks) to use during a penetration test specifically targeting a person or organization. 
+Social-Engineering Toolkit is a framework that allows a penetration tester to create custom attacks (mostly social engineering attacks) to use during a penetration test specifically targeting a person or organization. 
 
 Note: this tool is dangerous and should only be used for research in your home lab or by penetration testers with explicit permission. 
 
 ---
 
-### 4. **Why use Social-Engineer Toolkit?**
+### 4. **Why use Social-Engineering Toolkit?**
 
 If you are a penetration tester and have flexible rules of engagement, then SET is a great tool for crafting initial malicious social attacks against employees of the organization. 
 
@@ -72,9 +72,9 @@ If you are a penetration tester and have flexible rules of engagement, then SET 
 
 ---
 
-### 5. **How to use Social-Engineer Toolkit?**
+### 5. **How to use Social-Engineering Toolkit?**
 
-Using SET is as difficult as using Metasploit. You do have to know how the options function, however, it is also very easy to understand. Plus, if you ever get stuck you can always refer to the user manual located [here](https://github.com/trustedsec/social-engineer-toolkit/blob/master/readme/User_Manual.pdf).
+Using SET is as difficult as using Metasploit. You do have to know how the options function, however, it is also very easy to understand. Plus, if you ever get stuck you can always refer to the user manual located [here](https://github.com/trustedsec/Social-Engineering-toolkit/blob/master/readme/User_Manual.pdf).
 
     Step 1:
     In Kali Linux click the Applications icon and go to number 
