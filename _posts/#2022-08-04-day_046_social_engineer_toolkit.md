@@ -78,14 +78,16 @@ Using SET is as difficult as using Metasploit. You do have to know how the optio
 
     Step 1:
     In Kali linux hit the Applications icon and go to number 
-    13 - Social Engineering Tools and select SET.
+    "13 - Social Engineering Tools" 
+    and select:
+    "social engineering toolkit (root)".
 
     You will need to enter your password if you are using sudo, 
     if you are root this should not apply. 
 
 <br>
 
-![]()
+![](https://raw.githubusercontent.com/matthewomccorkle/matthewomccorkle.github.io/master/_posts/assets/100%20tools/socialengineertoolkit/setoolkit1.PNG)
 
 SET loads into a terminal window and creates its own shell that functions very similarly to the Linux shell. It even offers tab auto-complete. 
 
