@@ -39,7 +39,7 @@ Find TrustedSec website [here](https://www.trustedsec.com/).
 
 Find the SET User Manual @ GitHub [here](https://github.com/trustedsec/social-engineer-toolkit/blob/master/readme/User_Manual.pdf).
 
-SET was originally created by David Kennedy , the Founder of TrustedSec, and you can find him at:
+SET was originally created by David Kennedy, the Founder of TrustedSec, and you can find him at:
 
 [LinkedIn](https://www.linkedin.com/in/davidkennedy4/)
 
@@ -51,7 +51,7 @@ SET was originally created by David Kennedy , the Founder of TrustedSec, and you
 
 For running the Social-Engineer Toolkit tool, I used Kali Linux in a VMware Workstation 16 Player virtualized environment.
 
-For my victim device I am using Ubuntu in a VMware Workstation 16 Player virtualized environment. 
+For my victim device, I am using Ubuntu in a VMware Workstation 16 Player virtualized environment. 
 
 ---
 
@@ -77,7 +77,7 @@ If you are a penetration tester and have flexible rules of engagement, then SET 
 Using SET is as difficult as using Metasploit. You do have to know how the options function, however, it is also very easy to understand. Plus, if you ever get stuck you can always refer to the user manual located [here](https://github.com/trustedsec/social-engineer-toolkit/blob/master/readme/User_Manual.pdf).
 
     Step 1:
-    In Kali linux hit the Applications icon and go to number 
+    In Kali Linux click the Applications icon and go to number 
     "13 - Social Engineering Tools" 
     and select:
     "social engineering toolkit (root)".
@@ -92,7 +92,8 @@ Using SET is as difficult as using Metasploit. You do have to know how the optio
 SET loads into a terminal window and creates its own shell that functions very similarly to the Linux shell. It even offers tab auto-complete. 
 
     Step 2:
-    We have multiple options on the main menu, today we are going to focus on the Social-Engineering Attacks option 1.
+    We have multiple options on the main menu, today we are going to focus 
+    on the Social-Engineering Attacks option 1.
 
     type 1 and press enter
 
@@ -129,7 +130,8 @@ This example will show you how to perform a credential harvester attack by prese
 
     Step 3d:
     This is where you would enter an IP address for listening to capture 
-    credentials and hosting the page. Since I am working in a close virtual environment I used my Kali NAT address (default) by hitting enter.
+    credentials and hosting the page. Since I am working in a close virtual 
+    environment I used my Kali NAT address (default) by hitting enter.
 
 <br>
 
@@ -142,12 +144,16 @@ This example will show you how to perform a credential harvester attack by prese
 
 ![](https://raw.githubusercontent.com/matthewomccorkle/matthewomccorkle.github.io/master/_posts/assets/100%20tools/socialengineertoolkit/setoolkit7.PNG)
 
-At this point the website is being hosted at the address chosen in step 3d which for me is `kali.ip.address:80`.
+At this point, the website is being hosted at the address chosen in step 3d which for me is `kali.ip.address:80`.
 
     Step 3f (victim):
-    On the victim machine you would want to send this hosted page IP address in the form of a phishing email, fake website, 'Click here you won $1,000' style link. Below is what the victim would see if they clicked the fake link.
+    On the attack machine, you would want to send this hosted page IP 
+    address in the form of a phishing email, fake website, 'Click here you 
+    won $1,000' style link to the victim. 
+    Below is what the victim would see if they clicked the fake link.
 
-    I entered a test username and test password and clicked sign in on the fake Google page. 
+    I entered a test username and test password and clicked sign in on the 
+    fake Google page. 
 
 <br>
 
@@ -158,7 +164,8 @@ Once the victim enters their login credentials to the fake website the site redi
 ![](https://raw.githubusercontent.com/matthewomccorkle/matthewomccorkle.github.io/master/_posts/assets/100%20tools/socialengineertoolkit/setoolkit10.PNG)
 
     Step 3g: 
-    On the attack machine the captured data is logged in the SET shell and also can be saved to a XML report page for retrieval at a later time. 
+    On the attack machine, the captured data is logged in the SET shell and 
+    also can be saved to an XML report page for retrieval at a later time. 
 
 <br>
 
@@ -179,7 +186,7 @@ This is one of the many examples of how to use SET to create malicious social-en
 
 The Social-Engineering Toolkit (SET) is a tool for crafting social-engineering attacks against people and organizations. 
 
-The tool functions in a similar way as Metasploit and allows attackers to create web-based attacks, phishing campaigns, mass mailing campaigns and many other attack vectors. 
+The tool functions in a similar way as Metasploit and allows attackers to create web-based attacks, phishing campaigns, mass mailing campaigns, and many other attack vectors. 
 
 Thanks for reading!<br>
 
