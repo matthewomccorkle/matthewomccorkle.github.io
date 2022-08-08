@@ -24,7 +24,7 @@ categories:
 
 ## This post is designed to introduce you to the tool Name-That-Hash.
 
-![](PLACEHOLDER_TOOL_PHOTO)
+![](https://raw.githubusercontent.com/HashPals/Name-That-Hash/main/logo.gif)
 
 # <span style="color:red">***Disclaimer***</span> : **Please only use Name-That-Hash for professional and educational reasons. Do not use this tool for nefarious or malicious reasons.**
 
