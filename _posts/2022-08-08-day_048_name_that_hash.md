@@ -63,7 +63,7 @@ Name-That-Hash is a tool written in Go that identifies hashes by their type. You
 
 ### 4. **Why use Name-That-Hash?**
 
-Name-That-Hash is designed to be faster than Hashid and more accurate with easier to understand results. 
+Name-That-Hash is designed to be faster than Hashid and more accurate with results that are easier to understand. 
 
 Knowing the hash type of a password makes it easier when determining what options to use in common hash cracking utilities.
 
@@ -82,7 +82,7 @@ Installing Name-That-Hash is easy and done with pip3.
 
 ![](https://raw.githubusercontent.com/matthewomccorkle/matthewomccorkle.github.io/master/_posts/assets/100%20tools/nth/nth1.PNG)
 
-If you saw the below message during install then proceed to step 2a, otherwise proceed to step 3.
+If you saw the below message during installation then proceed to step 2a, otherwise proceed to step 3.
 
 ![](https://raw.githubusercontent.com/matthewomccorkle/matthewomccorkle.github.io/master/_posts/assets/100%20tools/nth/nth2a.PNG)
 
@@ -107,7 +107,7 @@ If you are using Kali you likely are using .zshrc which is where your environmen
     export PATH=$HOME/.local/bin:$PATH
 
     This path choice only works if your warning matches the warning I 
-    showed in step 1, otherwise adjust. 
+    showed in step 1, otherwise, adjust the path to match your warning message. 
 
 <br>
 
@@ -160,12 +160,12 @@ $DCC2$10240#tom#e4e938d12fe5974dc42a90120bd9c90f
 
 ![](https://raw.githubusercontent.com/matthewomccorkle/matthewomccorkle.github.io/master/_posts/assets/100%20tools/nth/nth5.PNG)
 
-From our results we see that example 2 which Hashid on day 17 previously thought was Snefru-256 (incorrect) is being correctly identified by Name-That-Hash as SHA-256 (correct).
+From our results, we see that example 2 which Hashid on day 17 previously thought was Snefru-256 (incorrect) is being correctly identified by Name-That-Hash as SHA-256 (correct).
 
 
 ### 6. **Summary**
 
-Name-That-Hash is a great alternative for hash identification tools. It is extremely quick, accurate and easy to use. 
+Name-That-Hash is a great alternative for hash identification tools. It is extremely quick, accurate, and easy to use. 
 
 Additionally, if you want to use a web based version of Name-That-Hash you can by going to [https://nth.skerritt.blog/](https://nth.skerritt.blog/).
 
