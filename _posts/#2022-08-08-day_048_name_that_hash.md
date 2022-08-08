@@ -80,11 +80,11 @@ Installing Name-That-Hash is easy and done with pip3.
 
 <br>
 
-![]()
+![](https://raw.githubusercontent.com/matthewomccorkle/matthewomccorkle.github.io/master/_posts/assets/100%20tools/nth/nth1.PNG)
 
 If you saw the below message during install then proceed to step 2a, otherwise proceed to step 3.
 
-![]()
+![](https://raw.githubusercontent.com/matthewomccorkle/matthewomccorkle.github.io/master/_posts/assets/100%20tools/nth/nth2a.PNG)
 
 
 We need to add the path to the Name-That-Hash binary to the environment so that when you type the command, the program works. 
@@ -97,8 +97,6 @@ If you are using Kali you likely are using .zshrc which is where your environmen
     sudo nano ~/.zshrc
 
 <br>
-
-![]()
 
     Step 2b:
     Scroll down using the arrow down key until you find the 
@@ -113,7 +111,7 @@ If you are using Kali you likely are using .zshrc which is where your environmen
 
 <br>
 
-![]()
+![](https://raw.githubusercontent.com/matthewomccorkle/matthewomccorkle.github.io/master/_posts/assets/100%20tools/nth/nth2.PNG)
 
     Step 2c:
     Save and close the .zshrc file by entering the following:
@@ -135,7 +133,7 @@ If you are using Kali you likely are using .zshrc which is where your environmen
 
 <br>
 
-![]()
+![](https://raw.githubusercontent.com/matthewomccorkle/matthewomccorkle.github.io/master/_posts/assets/100%20tools/nth/nth3.PNG)
 
 To demonstrate its use, I am going to use the same hashes from Day 017 blog on Hashid.
 
@@ -151,7 +149,7 @@ $DCC2$10240#tom#e4e938d12fe5974dc42a90120bd9c90f
 
 <br>
 
-![]()
+![](https://raw.githubusercontent.com/matthewomccorkle/matthewomccorkle.github.io/master/_posts/assets/100%20tools/nth/nth4.PNG)
 
     Step 5:
     Enter the following command for example 2:
@@ -160,7 +158,7 @@ $DCC2$10240#tom#e4e938d12fe5974dc42a90120bd9c90f
 
 <br>
 
-![]()
+![](https://raw.githubusercontent.com/matthewomccorkle/matthewomccorkle.github.io/master/_posts/assets/100%20tools/nth/nth5.PNG)
 
 From our results we see that example 2 which Hashid on day 17 previously thought was Snefru-256 (incorrect) is being correctly identified by Name-That-Hash as SHA-256 (correct).
 
