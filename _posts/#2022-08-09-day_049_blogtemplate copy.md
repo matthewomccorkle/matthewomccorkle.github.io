@@ -85,7 +85,7 @@ Second, Fern Wifi Cracker comes with Kali Linux so no install is needed during t
 
 In order for this attack to work you must have a wordlist with the password. This is not always viable or realistic, but for default and weak credentials this attack method may work. I used the shuffle command to display a random line from the wordlist file, the password chosen for this test was `fishhead`.
 
-![]()
+![](https://raw.githubusercontent.com/matthewomccorkle/matthewomccorkle.github.io/master/_posts/assets/100%20tools/fern/fern0.PNG)
 
     Step 1:
     Navigate to your applications menu and to section:
@@ -95,14 +95,14 @@ In order for this attack to work you must have a wordlist with the password. Thi
 
 <br>
 
-![]()
+![](https://raw.githubusercontent.com/matthewomccorkle/matthewomccorkle.github.io/master/_posts/assets/100%20tools/fern/fern1.PNG)
 
     Step 2:
     If you are not roo enter your root password in the prompt.
 
 <br>
 
-![]()
+![](https://raw.githubusercontent.com/matthewomccorkle/matthewomccorkle.github.io/master/_posts/assets/100%20tools/fern/fern2.PNG)
 
     Step 3:
     The GUI will open and you are presented with an option to select 
@@ -111,7 +111,7 @@ In order for this attack to work you must have a wordlist with the password. Thi
 
 <br>
 
-![]()
+![](https://raw.githubusercontent.com/matthewomccorkle/matthewomccorkle.github.io/master/_posts/assets/100%20tools/fern/fern3.PNG)
 
     Step 4:
     Click the blue wireless signal button to activate scanning mode 
@@ -122,7 +122,11 @@ In order for this attack to work you must have a wordlist with the password. Thi
 
 <br>
 
-![]()
+![](https://raw.githubusercontent.com/matthewomccorkle/matthewomccorkle.github.io/master/_posts/assets/100%20tools/fern/fern4.PNG)
+
+<br>
+
+![](https://raw.githubusercontent.com/matthewomccorkle/matthewomccorkle.github.io/master/_posts/assets/100%20tools/fern/fern4a.PNG)
 
     Step 5:
     This is the attack menu, click the target access point and click 
