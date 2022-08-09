@@ -136,7 +136,7 @@ In order for this attack to work you must have a wordlist with the password. Thi
 
 <br>
 
-![]()
+![](https://raw.githubusercontent.com/matthewomccorkle/matthewomccorkle.github.io/master/_posts/assets/100%20tools/fern/fern5.PNG)
 
     Step 6:
     Once ready click attack in the top right of the window. This will 
@@ -147,7 +147,7 @@ In order for this attack to work you must have a wordlist with the password. Thi
 
 <br>
 
-![]()
+![](https://raw.githubusercontent.com/matthewomccorkle/matthewomccorkle.github.io/master/_posts/assets/100%20tools/fern/fern6.PNG)
 
     Step 7:
     Once the handshake is complete the tool will initiate the 
@@ -156,7 +156,7 @@ In order for this attack to work you must have a wordlist with the password. Thi
 
 <br>
 
-![]()
+![](https://raw.githubusercontent.com/matthewomccorkle/matthewomccorkle.github.io/master/_posts/assets/100%20tools/fern/fern8.PNG)
 
     Step 8:
     If you want to view previously cracked access points and their 
@@ -164,11 +164,11 @@ In order for this attack to work you must have a wordlist with the password. Thi
 
 <br>
 
-![]()
+![](https://raw.githubusercontent.com/matthewomccorkle/matthewomccorkle.github.io/master/_posts/assets/100%20tools/fern/fern10.PNG)
 
 <br>
 
-![]()
+![](https://raw.githubusercontent.com/matthewomccorkle/matthewomccorkle.github.io/master/_posts/assets/100%20tools/fern/fern9.PNG)
 
 ### 6. **Summary**
 
