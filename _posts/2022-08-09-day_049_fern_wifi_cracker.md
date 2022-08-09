@@ -44,7 +44,7 @@ For running the Fern WiFi Cracker tool, I used Kali Linux in a VMware Workstatio
 
 For my network card, I used an Alfa Network AWUS036NHA USB card in monitor mode.
 
-For my victim network I am using a private Linsys WRT54GL router broadcasting a 2.4Ghz SSID. 
+For my victim network, I am using a private Linksys WRT54GL router broadcasting a 2.4Ghz SSID. 
 
 For my wordlist I am using a top 4800 WPA list from SecLists found [here](https://github.com/danielmiessler/SecLists/blob/master/Passwords/WiFi-WPA/probable-v2-wpa-top4800.txt).
 
@@ -68,27 +68,27 @@ Fern WiFi Cracker tool is a tool that functions similarly to Kismet, except this
 
 ### 4. **Why use Fern WiFi Cracker?**
 
-Some penetration tests require an analyst to connect directly to an organizations wireless network in order to gain initial or extended access. 
+Some penetration tests require an analyst to connect directly to an organization's wireless network in order to gain initial or extended access. 
 
 Fern WiFi Cracker automates that process in a GUI supported tool which makes getting into protected wireless systems easier. This tool uses wordlists to perform dictionary attacks against the SSID after deauthorizing a MAC address. 
 
 
 ---
 
-# <span style="color:red">***Disclaimer***</span>: **Please only use Fern WiFi Cracker on wireless networks you have explicit legal access to. Attempting to steal your neighbors internet is ILLEGAL.**
+# <span style="color:red">***Disclaimer***</span>: **Please only use Fern WiFi Cracker on wireless networks you have explicit legal access to. Attempting to steal your neighbor's internet is ILLEGAL.**
 
 ### 5. **How to use Fern WiFi Cracker?**
 
 First, you must have a wireless card that supports monitor mode, see section 2 of this post if you are unsure. 
 
-Second, Fern Wifi Cracker comes with Kali Linux so no install is needed during this blog.
+Second, Fern Wifi Cracker comes with Kali Linux so no installation is needed during this blog.
 
-In order for this attack to work you must have a wordlist with the password. This is not always viable or realistic, but for default and weak credentials this attack method may work. I used the shuffle command to display a random line from the wordlist file, the password chosen for this test was `fishhead`.
+In order for this attack to work, you must have a wordlist with the password. This is not always viable or realistic, but for default and weak credentials, this attack method may work. I used the shuffle command to display a random line from the wordlist file, the password chosen for this test was `fishhead`.
 
 ![](https://raw.githubusercontent.com/matthewomccorkle/matthewomccorkle.github.io/master/_posts/assets/100%20tools/fern/fern0.PNG)
 
     Step 1:
-    Navigate to your applications menu and to section:
+    Navigate to your applications menu and to the section:
     '06 - Wireless Attacks'
 
     Click "fern wifi cracker"
