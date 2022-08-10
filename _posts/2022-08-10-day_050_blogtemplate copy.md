@@ -43,7 +43,7 @@ HackTools was created by Ludovic Coulon find their LinkedIn [here](https://www.l
 
 ### 2. **My Setup**
 
-Hacktools is a browser extension for Chromium, Firefox or Safari. Therefore, you will need one of these browsers, I am using Firefox. 
+Hacktools is a browser extension for Chromium, Firefox, or Safari. Therefore, you will need one of these browsers, I am using Firefox. 
 
 ---
 
@@ -51,7 +51,7 @@ Hacktools is a browser extension for Chromium, Firefox or Safari. Therefore, you
 
 HackTools is a browser extension that gives penetration testers a quick and easy to reference tool for performing web application penetration testing. 
 
-This tools offers shell creation, cheat sheets and payload creation all in one spot. 
+HackTools offers shell creation, cheat sheets, and payload creation all in one spot. 
 
 ---
 
