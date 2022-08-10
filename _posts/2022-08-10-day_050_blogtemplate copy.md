@@ -77,14 +77,14 @@ I will discuss how to add this tool as an extension in Firefox, you should find 
 
 <br>
 
-![]()
+![](https://raw.githubusercontent.com/matthewomccorkle/matthewomccorkle.github.io/master/_posts/assets/100%20tools/hacktools/hacktools2.png)
 
     Step 3:
     In your browser click the hat icon for HackTools.
 
 <br>
 
-![]()
+![](https://raw.githubusercontent.com/matthewomccorkle/matthewomccorkle.github.io/master/_posts/assets/100%20tools/hacktools/hacktools1.png)
 
 ### 6. **Summary**
 
