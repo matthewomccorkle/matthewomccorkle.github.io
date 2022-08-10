@@ -125,6 +125,14 @@ If you are using Kali you likely are using .zshrc which is where your environmen
 
 <br>
 
+    Step 2d:
+    In your terminal enter the following command to update your system to 
+    see the path you added in step 2c:
+
+    source ~/.zshrc
+
+<br>
+
     Step 3:
     Now that Name-That-Hash is installed it is very easy to use, in your 
     terminal enter the following command:
