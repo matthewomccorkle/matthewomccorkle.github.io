@@ -1,0 +1,109 @@
+---
+title:  "Day 51 - Masscan - 100 tools in 100 days!"
+excerpt: "In this post, I will show you the tool Masscan and how it works."
+mathjax: true
+layout: post
+categories:
+    -- github
+    -- website
+---
+
+1 . Introduction
+<br>
+2 . My Setup
+<br>
+3 . What is Masscan?
+<br>
+4 . Why use Masscan?
+<br>
+5 . How to use Masscan?
+<br>
+6 . Summary
+
+---
+
+## This post is designed to introduce you to the tool Masscan.
+
+![](PLACEHOLDER_TOOL_PHOTO)
+
+# <span style="color:red">***Disclaimer***</span> : **Please only use Masscan for professional and educational reasons. Do not use this tool for nefarious or malicious reasons.**
+
+---
+
+### 1. **Introduction**
+
+Welcome to the **fifty-first** blog post of 100 tools in 100 days.<br> 
+
+Find **Masscan** @ GitHub [here](https://github.com/robertdavidgraham/masscan).
+
+Masscan was created by Robert Graham find their GitHub profile [here](https://github.com/robertdavidgraham).
+
+
+---
+
+### 2. **My Setup**
+
+For running the Masscan tool, I used Kali Linux in a VMware Workstation 16 Player virtualized environment.
+
+For my scanned environment I am using a virtualized Active Directory Domain Controller. 
+
+---
+
+### 3. **What is Masscan?**
+
+Masscan is a TCP port scanner that searches for open ports on hosts and networks by sending SYN packets and awaiting a handshake response from each host. 
+
+---
+
+### 4. **Why use Masscan?**
+
+If you are on a network and need to find other hosts on your network that may have open TCP ports Masscan can do this quickly for you. 
+
+Masscan is very noisy in that it will absolutely leave log events on any IDS and you should be aware of this before using it. You could use Masscan to scan the entire internet in a few hours, using this tool for that purpose may be considered illegal in your jurisdiction. 
+
+---
+
+### 5. **How to use Masscan?**
+
+Masscan is already installed on Kali Linux, therefore using it is easy.
+
+    Step 1:
+    Enter the following command:
+
+    sudo masscan -help
+
+<br>
+
+This shows the help page for Masscan.
+
+![]()
+
+    Step 2:
+    Masscan has a manual page as well which can be accessed by entering:
+
+    man masscan
+
+<br>
+
+![]()
+
+For my example I am scanning a domain controller on a network that I am connected to.
+
+    Step 3:
+    Since I know I am looking at a Domain Controller I am scanning ports of known services:
+
+`sudo masscan -p20,21-23,25,53,80,88,110,111,135,138,139,143,389,443,445,464,993,995,1723,3268,3269,3306,3389,5900,8080 192.168.2.10/32`
+
+<br>
+
+![]()
+
+
+### 6. **Summary**
+
+
+I hope you enjoyed this blog post.
+
+Thanks for reading!<br>
+
+If you have suggestions for what tool to cover next, [contact](mailto:matthew.o.mccorkle@gmail.com) me!
