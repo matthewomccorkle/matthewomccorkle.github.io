@@ -69,7 +69,7 @@ For my vulnerable host I am using OpenVPN to connect to the TryHackMe room 'Ra' 
 
 CrackMapExec offers an automated suite for security researchers to perform assessments of the security features, privileges, and lack of on active directory or similar networks. 
 
-Todays example will show how to enumerate and discover information about an SMB share on the 'Ra' hard box on TryHackMe. I have already discovered the username and password for this machine (spoiler alert if you haven not completed Ra yet).
+Today's example will show how to enumerate and discover information about an SMB share on the 'Ra' hard box on TryHackMe. I have already discovered the username and password for this machine (spoiler alert if you have not completed Ra yet).
 
 ---
 
@@ -144,7 +144,7 @@ Poetry Install:
 
     Step 7:
     First I am going to check if SMB is available on the designated host.
-    I know that an Nmap scan likely would have told me that it is indeed 
+    I know that a Nmap scan likely would have told me that it is indeed 
     available, so this step this far into the process is not necessary.
 
     Enter the following command:
@@ -168,7 +168,7 @@ A teal [+] identifies a successfully authenticated username and password.
 
 ![](https://raw.githubusercontent.com/matthewomccorkle/matthewomccorkle.github.io/master/_posts/assets/100%20tools/crackmapexec/crack9.png)
 
-Since we can authenticate to the SMB lets use CrackMapExec to run some special options such as those listed in the Mapping/Enumeration section of CrackMapExec.
+Since we can authenticate to the SMB let's use CrackMapExec to run some special options such as those listed in the Mapping/Enumeration section of CrackMapExec.
 
 <br>
 
@@ -221,7 +221,7 @@ Since we can authenticate to the SMB lets use CrackMapExec to run some special o
 
 ### 6. **Summary**
 
-A security researcher could use CrackMapExec to perform analysis on SMB, LDAP, MSSQL, RDP, SSH and WINRM services on domain networks. 
+A security researcher could use CrackMapExec to perform analysis on SMB, LDAP, MSSQL, RDP, SSH, and WINRM services on domain networks. 
 
 CrackMapExec could assist the researcher with finding opportunities for privilege escalation and pivoting within the environment. 
 
