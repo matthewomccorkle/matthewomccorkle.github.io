@@ -55,7 +55,9 @@ CrackMapExec was created by:
 
 For running the CrackMapExec tool, I used Kali Linux in a VMware Workstation 16 Player virtualized environment.
 
-For my vulnerable host I am using OpenVPN to connect to the TryHackMe room 'Ra' located here: [https://tryhackme.com/room/ra](https://tryhackme.com/room/ra).
+For my vulnerable host I am using OpenVPN to connect to the TryHackMe room 'Ra' located here: 
+
+[https://tryhackme.com/room/ra](https://tryhackme.com/room/ra).
 
 ---
 
