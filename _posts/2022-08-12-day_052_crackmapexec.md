@@ -24,7 +24,7 @@ categories:
 
 ## This post is designed to introduce you to the tool CrackMapExec.
 
-![](PLACEHOLDER_TOOL_PHOTO)
+![](https://cloud.githubusercontent.com/assets/5151193/17577511/d312ceb4-5f3b-11e6-8de5-8822246289fd.jpg)
 
 # <span style="color:red">***Disclaimer***</span> : **Please only use CrackMapExec for professional and educational reasons. Do not use this tool for nefarious or malicious reasons.**
 
