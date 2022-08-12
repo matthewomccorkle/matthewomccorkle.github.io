@@ -61,7 +61,8 @@ For my vulnerable host I am using OpenVPN to connect to the TryHackMe room 'Ra' 
 
 ### 3. **What is CrackMapExec?**
 
-"CrackMapExec (a.k.a CME) is a post-exploitation tool that helps automate assessing the security of large Active Directory networks. Built with stealth in mind, CME follows the concept of "Living off the Land": abusing built-in Active Directory features/protocols to achieve it's functionality and allowing it to evade most endpoint protection/IDS/IPS solutions." - [Porchetta Industries](https://wiki.porchetta.industries/#:~:text=CrackMapExec%20(a.k,IDS/IPS%20solutions.)
+"CrackMapExec (a.k.a CME) is a post-exploitation tool that helps automate assessing the security of large Active Directory networks. Built with stealth in mind, CME follows the concept of "Living off the Land": abusing built-in Active Directory features/protocols to achieve it's functionality and allowing it to evade most endpoint protection/IDS/IPS solutions." -
+[PorchettaIndustries](https://wiki.porchetta.industries/#:~:text=CrackMapExec%20(a.k,IDS/IPS%20solutions)
 
 ---
 
@@ -156,7 +157,8 @@ Poetry Install:
 ![](https://raw.githubusercontent.com/matthewomccorkle/matthewomccorkle.github.io/master/_posts/assets/100%20tools/crackmapexec/crack8.png)
 
     Step 8:
-    As mentioned in section 4 of this post, I have a username and password that I want to test for validity to connect to the SMB service.
+    As mentioned in section 4 of this post, I have a username and password 
+    that I want to test for validity to connect to the SMB service.
 
     Add the username and password to the command in step 7 as follows:
 
