@@ -24,7 +24,7 @@ categories:
 
 ## This post is designed to introduce you to the tool PowerView.
 
-![](PLACEHOLDER_TOOL_PHOTO)
+![](https://raw.githubusercontent.com/matthewomccorkle/matthewomccorkle.github.io/master/_posts/assets/100%20tools/powerview/powerview0.png)
 
 # <span style="color:red">***Disclaimer***</span> : **Please only use PowerView for professional and educational reasons. Do not use this tool for nefarious or malicious reasons.**
 
@@ -97,7 +97,7 @@ Ensure you have [PowerView.ps1](https://github.com/PowerShellMafia/PowerSploit/b
 
 <br>
 
-![]()
+![](https://raw.githubusercontent.com/matthewomccorkle/matthewomccorkle.github.io/master/_posts/assets/100%20tools/powerview/powerview1.png)
 
     Step 2:
     SSH into the victim device using the leaked credentials:
@@ -113,7 +113,7 @@ Ensure you have [PowerView.ps1](https://github.com/PowerShellMafia/PowerSploit/b
 
 <br>
 
-![]()
+![](https://raw.githubusercontent.com/matthewomccorkle/matthewomccorkle.github.io/master/_posts/assets/100%20tools/powerview/powerview1a.png)
 
     Step 4:
     Enter the following command to bypass Windows Antimalware:
@@ -124,7 +124,7 @@ Ensure you have [PowerView.ps1](https://github.com/PowerShellMafia/PowerSploit/b
 
 You can read more about this Antimalware Scan Interface bypass [here](https://github.com/S3cur3Th1sSh1t/Amsi-Bypass-Powershell).
 
-![]()
+![](https://raw.githubusercontent.com/matthewomccorkle/matthewomccorkle.github.io/master/_posts/assets/100%20tools/powerview/powerview1b.png)
 
     Step 5:
     Navigate to the file path where you securely copied the PowerView.ps1 file and enter the following command:
@@ -135,7 +135,7 @@ You can read more about this Antimalware Scan Interface bypass [here](https://gi
 
 You likely will not get a response back from executing PowerView.ps1 which is normal. 
 
-![]()
+![](https://raw.githubusercontent.com/matthewomccorkle/matthewomccorkle.github.io/master/_posts/assets/100%20tools/powerview/powerview2.png)
 
     Step 6:
     First lets get the list of users in the environment (note if you have a lot of users this will spam your terminal):
@@ -144,7 +144,7 @@ You likely will not get a response back from executing PowerView.ps1 which is no
 
 <br>
 
-![]()
+![](https://raw.githubusercontent.com/matthewomccorkle/matthewomccorkle.github.io/master/_posts/assets/100%20tools/powerview/powerview3.png)
 
     Step 7:
     View the properties of the current domain by entering:
@@ -153,7 +153,7 @@ You likely will not get a response back from executing PowerView.ps1 which is no
 
 <br>
 
-![]()
+![](https://raw.githubusercontent.com/matthewomccorkle/matthewomccorkle.github.io/master/_posts/assets/100%20tools/powerview/powerview4.png)
 
     Step 8:
     View members of the group "Domain Admins" by entering the following:
@@ -166,7 +166,7 @@ You likely will not get a response back from executing PowerView.ps1 which is no
 
 <br>
 
-![]()
+![](https://raw.githubusercontent.com/matthewomccorkle/matthewomccorkle.github.io/master/_posts/assets/100%20tools/powerview/powerview6.png)
 
 
 ### 6. **Summary**
