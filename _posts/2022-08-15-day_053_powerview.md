@@ -116,7 +116,7 @@ Ensure you have [PowerView.ps1](https://github.com/PowerShellMafia/PowerSploit/b
     Step 3:
     Enter the following command to upgrade to a PowerShell terminal:
     
-    powershell -ep RemoteSigned
+    powershell -ep bypass
 
 <br>
 
