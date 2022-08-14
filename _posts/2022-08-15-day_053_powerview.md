@@ -51,7 +51,7 @@ PowerView was created by Will Schroeder (@harmj0y) find him at:
 
 For running the PowerView tool, I used Kali Linux in a VMware Workstation 16 Player virtualized environment.
 
-For my victim network I am running a virtualized Active Directory Domain Controller and Windows 10 Enterprise Edition user in a VMware Workstation 16 Player virtualized environment. 
+For my victim network, I am running a virtualized Active Directory Domain Controller and Windows 10 Enterprise Edition user in a VMware Workstation 16 Player virtualized environment. 
 
 I am using this simple [cheat sheet](https://github.com/drak3hft7/Cheat-Sheet---Active-Directory) for PowerView command reference.
 
@@ -59,7 +59,7 @@ I am using this simple [cheat sheet](https://github.com/drak3hft7/Cheat-Sheet---
 
 ### 3. **What is PowerView?**
 
-PowerView is an enumeration PowerShell script which allows a user to discover and identify various aspects of an Active Directory.
+PowerView is an enumeration PowerShell script that allows a user to discover and identify various aspects of an Active Directory.
 
 ---
 
@@ -80,20 +80,25 @@ PowerView allows a researcher to find other users, domain admins, computers, gro
 ### Before moving forward:
 
  - I am using a virtualized AD network with a Domain Controller and one user signed in. 
- - For these examples I had to relax Firewall settings.
- - I am using OpenSSH server on the users computer to connect to. 
- - Prior to this point in the attack chain I completed full enumeration of the network and gained access to leaked credentials for the user.
+ - For these examples, I had to relax the Firewall settings on the victim.
+ - I am using OpenSSH server on the users computer. (the vulnerable service) 
+ - Before this point in the attack chain I completed a full enumeration of the network and gained access to leaked credentials for the user.
  - Not every active directory attack will function the same, and likely you would not find an environment where firewall solutions are relaxed.
  - I used BadBlood to automate the creation of my Active Directory, you can do the same by visiting the BadBlood page [here](https://github.com/davidprowe/BadBlood).
 
 ### 5. **How to use PowerView?**
 
-It is important to remember that PowerView is a ps1 script that needs to be on the users device to run. I will go through the steps I took to securely copy the script to the victim device, execute the script via an SSH terminal established from leaked credentials, and some of the scripts functions that can be used for further pivoting and potential privilege escalation. 
+It is important to remember that PowerView is a ps1 script that needs to be on the users device to run. 
+
+I will go over: 
+ - How to securely copy the script to the victim device. 
+ - How to execute the script via an SSH terminal established from leaked credentials. 
+ - Some of the scripts functions that can be used for further pivoting and potential privilege escalation. 
 
 Ensure you have [PowerView.ps1](https://github.com/PowerShellMafia/PowerSploit/blob/master/Recon/PowerView.ps1) downloaded to your attacking device.
 
     Step 1:
-    Securely copy the powershell script using the following command:
+    Securely copy the PowerShell script using the following command:
 
     scp PowerView.ps1 <USERNAME>@<DOMAIN>:<PATH TO DOWNLOAD TO>
 
@@ -140,7 +145,7 @@ You likely will not get a response back from executing PowerView.ps1 which is no
 ![](https://raw.githubusercontent.com/matthewomccorkle/matthewomccorkle.github.io/master/_posts/assets/100%20tools/powerview/powerview2.png)
 
     Step 6:
-    First lets get the list of users in the environment (note if you have a lot of users this will spam your terminal):
+    First, lets get the list of users in the environment (note if you have a lot of users this will spam your terminal):
 
     Get-NetUser
 
