@@ -97,9 +97,11 @@ Sign into BloodHound using your Neo4j credentials which were set during the Neo4
 
 <br>
 
-![]()
+![](https://raw.githubusercontent.com/matthewomccorkle/matthewomccorkle.github.io/master/_posts/assets/100%20tools/bloodhound/bloodhound1.png)
 
 You should see BloodHound pop up with a username/password prompt. If there is not a green check next to the Neo4j server address try the following in your terminal: `sudo systemctl stop neo4j && sudo systemctl start neo4j`.
+
+![](https://raw.githubusercontent.com/matthewomccorkle/matthewomccorkle.github.io/master/_posts/assets/100%20tools/bloodhound/bloodhound2.png)
 
     Step 4:
     On your victim device upgrade your terminal to a powershell by entering the following:
@@ -108,7 +110,7 @@ You should see BloodHound pop up with a username/password prompt. If there is no
 
 <br>
 
-![]()
+![](https://raw.githubusercontent.com/matthewomccorkle/matthewomccorkle.github.io/master/_posts/assets/100%20tools/bloodhound/bloodhound3.png)
 
     Step 5:
     Run SharpHound on your victim device by entering the following commands:
@@ -117,7 +119,7 @@ You should see BloodHound pop up with a username/password prompt. If there is no
 
 <br>
 
-![]()
+![](https://raw.githubusercontent.com/matthewomccorkle/matthewomccorkle.github.io/master/_posts/assets/100%20tools/bloodhound/bloodhound4.png)
 
     Step 6:
     Run the collection method to gather "loot" for BloodHound to analyze:
@@ -126,7 +128,7 @@ You should see BloodHound pop up with a username/password prompt. If there is no
 
 <br>
 
-![]()
+![](https://raw.githubusercontent.com/matthewomccorkle/matthewomccorkle.github.io/master/_posts/assets/100%20tools/bloodhound/bloodhound5.png)
 
     Step 7:
     On your attack device in the terminal run the following command to 
@@ -136,7 +138,7 @@ You should see BloodHound pop up with a username/password prompt. If there is no
 
 <br>
 
-![]()
+![](https://raw.githubusercontent.com/matthewomccorkle/matthewomccorkle.github.io/master/_posts/assets/100%20tools/bloodhound/bloodhound6.png)
 
     Step 8:
     if you are not root, change ownership of the downloaded zip file to your 
@@ -146,7 +148,7 @@ You should see BloodHound pop up with a username/password prompt. If there is no
 
 <br>
 
-![]()
+![](https://raw.githubusercontent.com/matthewomccorkle/matthewomccorkle.github.io/master/_posts/assets/100%20tools/bloodhound/bloodhound7.png)
 
     Step 9:
     In BloodHound click "Upload Data" and choose the zip file from step 8.
@@ -155,7 +157,9 @@ You should see BloodHound pop up with a username/password prompt. If there is no
 
 You should see progress bars for the .JSON files uploading into the database, if you see anything else, or nothing else ensure you have changed the ownership of the zip file to the user running BloodHound, for me that is kali. 
 
-![]()
+![](https://raw.githubusercontent.com/matthewomccorkle/matthewomccorkle.github.io/master/_posts/assets/100%20tools/bloodhound/bloodhound8.png)
+
+![](https://raw.githubusercontent.com/matthewomccorkle/matthewomccorkle.github.io/master/_posts/assets/100%20tools/bloodhound/bloodhound9.png)
 
     Step 10:
     Now that the data is imported you can view all Domain Admins by clicking 
@@ -163,7 +167,7 @@ You should see progress bars for the .JSON files uploading into the database, if
 
 <br>
 
-![]()
+![](https://raw.githubusercontent.com/matthewomccorkle/matthewomccorkle.github.io/master/_posts/assets/100%20tools/bloodhound/bloodhound10.png)
 
     Step 11:
     You could mark each Domain Admin as a "High Value" for further analysis, 
@@ -171,7 +175,7 @@ You should see progress bars for the .JSON files uploading into the database, if
 
 <br>
 
-![]()
+![](https://raw.githubusercontent.com/matthewomccorkle/matthewomccorkle.github.io/master/_posts/assets/100%20tools/bloodhound/bloodhound11.png)
 
     Step 12:
     You can find the user that you have control of by typing the username in 
@@ -181,7 +185,7 @@ You should see progress bars for the .JSON files uploading into the database, if
 
 <br>
 
-![]()
+![](https://raw.githubusercontent.com/matthewomccorkle/matthewomccorkle.github.io/master/_posts/assets/100%20tools/bloodhound/bloodhound12.png)
 
     Step 13:
     You can right click most items and choose "Shortest Paths to Here from 
@@ -190,9 +194,9 @@ You should see progress bars for the .JSON files uploading into the database, if
 
 <br>
 
-![]()
+![](https://raw.githubusercontent.com/matthewomccorkle/matthewomccorkle.github.io/master/_posts/assets/100%20tools/bloodhound/bloodhound13.png)
 
-![]()
+![](https://raw.githubusercontent.com/matthewomccorkle/matthewomccorkle.github.io/master/_posts/assets/100%20tools/bloodhound/bloodhound14.png)
 
     Step 14:
     Finally, you can find Kerberoastable accounts linked to high value 
@@ -201,7 +205,7 @@ You should see progress bars for the .JSON files uploading into the database, if
 
 <br>
 
-![]()
+![](https://raw.githubusercontent.com/matthewomccorkle/matthewomccorkle.github.io/master/_posts/assets/100%20tools/bloodhound/bloodhound15.png)
 
 This is just a surface overview of BloodHound and it's accompanying SHarpHound collector for understanding an Active Directory environments potential attack paths. Further research and analysis is required to make conclusive evidence of attackable paths. 
 
