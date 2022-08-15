@@ -93,7 +93,7 @@ BloodHound "loot" is gathered from a PowerShell script called SharpHound. BloodH
 
     ./BloodHound.bin --no-sandbox
 
-Sign into BloodHound using your Neo4j credentials which were set during the Neo4j installation steps from [here](https://bloodhound.readthedocs.io/en/latest/installation/linux.html).
+Sign in to BloodHound using your Neo4j credentials which were set during the Neo4j installation steps from [here](https://bloodhound.readthedocs.io/en/latest/installation/linux.html).
 
 <br>
 
@@ -104,7 +104,7 @@ You should see BloodHound pop up with a username/password prompt. If there is no
 ![](https://raw.githubusercontent.com/matthewomccorkle/matthewomccorkle.github.io/master/_posts/assets/100%20tools/bloodhound/bloodhound2.png)
 
     Step 4:
-    On your victim device upgrade your terminal to a powershell by entering the following:
+    On your victim device upgrade your terminal to a PowerShell by entering the following:
 
     powershell -ep bypass
 
@@ -155,7 +155,7 @@ You should see BloodHound pop up with a username/password prompt. If there is no
 
 <br>
 
-You should see progress bars for the .JSON files uploading into the database, if you see anything else, or nothing else ensure you have changed the ownership of the zip file to the user running BloodHound, for me that is kali. 
+You should see progress bars for the .JSON files uploading into the database, if you see anything else or nothing else, ensure you have changed the ownership of the zip file to the user running BloodHound, for me that is kali. 
 
 ![](https://raw.githubusercontent.com/matthewomccorkle/matthewomccorkle.github.io/master/_posts/assets/100%20tools/bloodhound/bloodhound8.png)
 
@@ -180,7 +180,7 @@ You should see progress bars for the .JSON files uploading into the database, if
     Step 12:
     You can find the user that you have control of by typing the username in 
     the 'Search for a node" section of the search function. Additionally, 
-    right clicking the user you can choose "Mark User as Owned" for further 
+    by right clicking the user you can choose "Mark User as Owned" for further 
     analysis. 
 
 <br>
@@ -200,18 +200,18 @@ You should see progress bars for the .JSON files uploading into the database, if
 
     Step 14:
     Finally, you can find Kerberoastable accounts linked to high value 
-    groups, like Administrators, by click "Find Kerberoastable Members of 
+    groups, like Administrators, by clicking "Find Kerberoastable Members of 
     High Value Groups".
 
 <br>
 
 ![](https://raw.githubusercontent.com/matthewomccorkle/matthewomccorkle.github.io/master/_posts/assets/100%20tools/bloodhound/bloodhound15.png)
 
-This is just a surface overview of BloodHound and it's accompanying SHarpHound collector for understanding an Active Directory environments potential attack paths. Further research and analysis is required to make conclusive evidence of attackable paths. 
+This is just a surface overview of BloodHound and its accompanying SharpHound collector used for understanding an Active Directory environment's potential attack paths. Further research and analysis are required to make conclusive evidence of attackable paths. 
 
 ### 6. **Summary**
 
-BloodHound and SharpHound are more advanced tools for discovering attack paths within an Active Directory environment. Security Researchers and Penetration testers can use these tools to understand environments they are working on and either attack or secure those paths. 
+BloodHound and SharpHound are more advanced tools for discovering attack paths within an Active Directory environment. Security Researchers and Penetration testers can use these tools to understand environment's they are working on and either attack or secure those paths. 
 
 I hope you enjoyed this blog post.
 
