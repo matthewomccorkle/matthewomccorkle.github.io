@@ -86,7 +86,8 @@ BloodHound "loot" is gathered from a PowerShell script called SharpHound. BloodH
 
 <br>
 
-    Step 3: Following the instructions from the BloodHound 'read the docs page', download the latest version of BloodHound from
+    Step 3: Following the instructions from the BloodHound 'read the docs 
+    page', download the latest version of BloodHound from
     https://github.com/BloodHoundAD/BloodHound/releases.
 
     Unzip the folder, navigate into the folder, and run the following command:
