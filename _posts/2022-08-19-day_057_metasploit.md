@@ -36,11 +36,9 @@ Welcome to the **fifty-seventh** blog post of 100 tools in 100 days.<br>
 
 Find **Metasploit** @ GitHub [here](https://github.com/rapid7/metasploit-framework).
 
-Additionally, Rapid7 now owns the rights to Metasploit and you can find it [here](https://www.metasploit.com/).
-
 Metasploit was created by HD Moore, the same creator of runZero, find him [here](https://www.linkedin.com/in/hdmoore/).
 
-
+Additionally, Rapid7 now owns the rights to Metasploit and you can find it [here](https://www.metasploit.com/).
 
 
 ---
