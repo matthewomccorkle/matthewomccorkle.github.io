@@ -24,7 +24,7 @@ categories:
 
 ## This post is designed to introduce you to the tool Metasploit.
 
-![](PLACEHOLDER_TOOL_PHOTO)
+![](https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg)
 
 # <span style="color:red">***Disclaimer***</span> : **Please only use Metasploit for professional and educational reasons. Do not use this tool for nefarious or malicious reasons.**
 
