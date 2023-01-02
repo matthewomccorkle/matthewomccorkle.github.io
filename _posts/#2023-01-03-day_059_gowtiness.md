@@ -87,7 +87,7 @@ Verify your installation by checking the gowitness help file:
 
 <br>
 
-![](go1)
+![](https://raw.githubusercontent.com/matthewomccorkle/matthewomccorkle.github.io/master/_posts/assets/100%20tools/gowitness/go1.png)
 
 Next, try using the single option to screenshot a website of your choice. I chose to work with the scanme subdomain from nmap.org. 
 
@@ -97,7 +97,7 @@ Next, try using the single option to screenshot a website of your choice. I chos
 
 <br>
 
-![](go2)
+![](https://raw.githubusercontent.com/matthewomccorkle/matthewomccorkle.github.io/master/_posts/assets/100%20tools/gowitness/go2.png)
 
 Now that you have captured the screenshot and data for your website of choice, start the gowitness server to access the web interface for interacting with the data. 
 
@@ -107,31 +107,31 @@ Now that you have captured the screenshot and data for your website of choice, s
 
 <br>
 
-![](go3)
+![](https://raw.githubusercontent.com/matthewomccorkle/matthewomccorkle.github.io/master/_posts/assets/100%20tools/gowitness/go3.png)
 
 Open your browser of choice and navigate to `localhost:7171` and you will see the gowitness report web interface.
 
 <br>
 
-![](go4)
+![](https://raw.githubusercontent.com/matthewomccorkle/matthewomccorkle.github.io/master/_posts/assets/100%20tools/gowitness/go4.png)
 
 If you click `Table View` you are able to see all of the sites you have scanned and open a report detailing the headers, html data, and security information about the url.
 
 <br>
 
-![](go5)
+![](https://raw.githubusercontent.com/matthewomccorkle/matthewomccorkle.github.io/master/_posts/assets/100%20tools/gowitness/go5.png)
 
 Below is the data captured by my initial scan:
 
 <br>
 
-![](go6)
+![](https://raw.githubusercontent.com/matthewomccorkle/matthewomccorkle.github.io/master/_posts/assets/100%20tools/gowitness/go6.png)
 
 Bonus: you can scan individual URLs on demand from the web interface by navigating to `Submit New URL` in the banner options at the top of the page.
 
 <br>
 
-![](go7)
+![](https://raw.githubusercontent.com/matthewomccorkle/matthewomccorkle.github.io/master/_posts/assets/100%20tools/gowitness/go7.png)
 
 ### 6. **Summary**
 
