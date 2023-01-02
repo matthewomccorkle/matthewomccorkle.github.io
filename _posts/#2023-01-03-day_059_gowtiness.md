@@ -115,7 +115,7 @@ Open your browser of choice and navigate to `localhost:7171` and you will see th
 
 ![](https://raw.githubusercontent.com/matthewomccorkle/matthewomccorkle.github.io/master/_posts/assets/100%20tools/gowitness/go4.png)
 
-If you click `Table View` you are able to see all of the sites you have scanned and open a report detailing the headers, html data, and security information about the url.
+If you click `Table View` you are able to see all of the sites you have scanned and open a report detailing the headers, html data, and security information about the url. Click `Detail` to the left of the site you want to see more information and screenshots of. 
 
 <br>
 
