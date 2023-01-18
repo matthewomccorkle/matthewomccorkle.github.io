@@ -38,9 +38,9 @@ Find **gowitness** @ GitHub [here](https://github.com/sensepost/gowitness).
 
 gowitness was created by SensePost an ethical hacking team at Orange Cyberdefense find them at:
 
-[sensepost.com](https://sensepost.com/)
-[twitter](https://twitter.com/sensepost)
-[GitHub](https://github.com/sensepost)
+[sensepost.com](https://sensepost.com/)<br>
+[twitter](https://twitter.com/sensepost)<br>
+[GitHub](https://github.com/sensepost)<br>
 
 
 ---
@@ -59,7 +59,7 @@ Gowitness is a website screenshot tool that was written by the SensePost team at
 
 ### 4. **Why use gowitness?**
 
-Gowitness can take screenshots, and gather response headers, network logs, security information, and all html from a website, cidr range, nmap file, nessus file and more. 
+Gowitness can take screenshots, and gather response headers, network logs, security information, and all html from a various inputs such as URL, cidr range, nmap file, nessus file and more. 
 
 Gowitness also offers a self hosted database and local website to access this information quickly. 
 
@@ -67,7 +67,7 @@ Gowitness also offers a self hosted database and local website to access this in
 
 ### 5. **How to use gowitness?**
 
-In order to use gowitness you must have Golang installed on your device. Check which version of Golang you have by entering `go version` into your command line. 
+To use gowitness you must have Golang installed on your device. Check which version of Golang you have by entering `go version` into your command line. 
 
 <br>
 
@@ -115,7 +115,7 @@ Open your browser of choice and navigate to `localhost:7171` and you will see th
 
 ![](https://raw.githubusercontent.com/matthewomccorkle/matthewomccorkle.github.io/master/_posts/assets/100%20tools/gowitness/go4.png)
 
-If you click `Table View` you are able to see all of the sites you have scanned and open a report detailing the headers, html data, and security information about the url. Click `Detail` to the left of the site you want to see more information and screenshots of. 
+If you click `Table View` you can see all of the sites you have scanned and open a report detailing the headers, html data, and security information about the url. Click `Detail` to the left of the site you want to see more information and screenshots of. 
 
 <br>
 
@@ -137,7 +137,7 @@ Bonus: you can scan individual URLs on demand from the web interface by navigati
 
 gowitness is a URL screenshot tool that allows a user to take screenshots of URLs. gowitness captures the headers, security html and additional data from the site specified. 
 
-Advanced uses can input nmap and nessus files as sources for gowitness in order to cover a large amount of sites quickly. 
+Advanced uses can input nmap and nessus files as sources for gowitness to cover a large amount of sites quickly. 
 
 I hope you enjoyed this blog post.
 
